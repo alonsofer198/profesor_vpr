@@ -1,0 +1,694 @@
+{
+  "name": "Incidentes",
+  "children": [
+   {
+    "name": "Aguadilla",
+    "children": [
+     {
+      "name": "2016",
+      "size": 624,
+      "children": [
+       {"name": "Fiscal Ordenó Radicar Cargos", "size": 56},
+       {"name": "Convicciones", "size": 0}
+      ]
+     },
+     {
+      "name": "2017",
+      "size": 692,
+      "children": [
+       {"name": "Fiscal Ordenó Radicar Cargos", "size": 223},
+       {"name": "Convicciones", "size": 10}
+      ]
+     },
+     {
+      "name": "2018",
+      "size": 662,
+      "children": [
+       {"name": "Fiscal Ordenó Radicar Cargos", "size": 290},
+       {"name": "Convicciones", "size": 17}
+      ]
+     },
+     {
+      "name": "2019",
+      "size": 767,
+      "children": [
+       {"name": "Fiscal Ordenó Radicar Cargos", "size": 465},
+       {"name": "Convicciones", "size": 17}
+      ]
+     },
+     {
+      "name": "2020",
+      "size": 657,
+      "children": [
+       {"name": "Fiscal Ordenó Radicar Cargos", "size": 404},
+       {"name": "Convicciones", "size": 12}
+      ]
+     },
+     {
+      "name": "2021",
+      "size": 217,
+      "children": [
+       {"name": "Fiscal Ordenó Radicar Cargos", "size": 134},
+       {"name": "Convicciones", "size": 0}
+      ]
+     }
+    ]
+   },
+   {
+    "name": "Aibonito",
+    "children": [
+     {
+      "name": "2016",
+      "size": 570,
+      "children": [
+       {"name": "Fiscal Ordenó Radicar Cargos", "size": 40},
+       {"name": "Convicciones", "size": 0}
+      ]
+     },
+     {
+      "name": "2017",
+      "size": 578,
+      "children": [
+       {"name": "Fiscal Ordenó Radicar Cargos", "size": 172},
+       {"name": "Convicciones", "size": 2}
+      ]
+     },
+     {
+      "name": "2018",
+      "size": 141,
+      "children": [
+       {"name": "Fiscal Ordenó Radicar Cargos", "size": 290},
+       {"name": "Convicciones", "size": 19}
+      ]
+     },
+     {
+      "name": "2019",
+      "size": 125,
+      "children": [
+       {"name": "Fiscal Ordenó Radicar Cargos", "size": 285},
+       {"name": "Convicciones", "size": 17}
+      ]
+     },
+     {
+      "name": "2020",
+      "size": 82,
+      "children": [
+       {"name": "Fiscal Ordenó Radicar Cargos", "size": 242},
+       {"name": "Convicciones", "size": 31}
+      ]
+     },
+     {
+      "name": "2021",
+      "size": 126,
+      "children": [
+       {"name": "Fiscal Ordenó Radicar Cargos", "size": 87},
+       {"name": "Convicciones", "size": 4}
+      ]
+     }
+    ]
+   },
+   {
+    "name": "Arecibo",
+    "children": [
+     {
+      "name": "2016",
+      "size": 570,
+      "children": [
+       {"name": "Fiscal Ordenó Radicar Cargos", "size": 40},
+       {"name": "Convicciones", "size": 0}
+      ]
+     },
+     {
+      "name": "2017",
+      "size": 578,
+      "children": [
+       {"name": "Fiscal Ordenó Radicar Cargos", "size": 172},
+       {"name": "Convicciones", "size": 2}
+      ]
+     },
+     {
+      "name": "2018",
+      "size": 141,
+      "children": [
+       {"name": "Fiscal Ordenó Radicar Cargos", "size": 290},
+       {"name": "Convicciones", "size": 19}
+      ]
+     },
+     {
+      "name": "2019",
+      "size": 125,
+      "children": [
+       {"name": "Fiscal Ordenó Radicar Cargos", "size": 285},
+       {"name": "Convicciones", "size": 17}
+      ]
+     },
+     {
+      "name": "2020",
+      "size": 82,
+      "children": [
+       {"name": "Fiscal Ordenó Radicar Cargos", "size": 242},
+       {"name": "Convicciones", "size": 31}
+      ]
+     },
+     {
+      "name": "2021",
+      "size": 126,
+      "children": [
+       {"name": "Fiscal Ordenó Radicar Cargos", "size": 87},
+       {"name": "Convicciones", "size": 4}
+      ]
+     }
+    ]
+   },
+   {
+    "name": "Bayamón",
+    "children": [
+     {
+      "name": "2016",
+      "size": 1567,
+      "children": [
+       {"name": "Fiscal Ordenó Radicar Cargos", "size": 127},
+       {"name": "Convicciones", "size": 1}
+      ]
+     },
+     {
+      "name": "2017",
+      "size": 1279,
+      "children": [
+       {"name": "Fiscal Ordenó Radicar Cargos", "size": 342},
+       {"name": "Convicciones", "size": 7}
+      ]
+     },
+     {
+      "name": "2018",
+      "size": 973,
+      "children": [
+       {"name": "Fiscal Ordenó Radicar Cargos", "size": 412},
+       {"name": "Convicciones", "size": 31}
+      ]
+     },
+     {
+      "name": "2019",
+      "size": 1054,
+      "children": [
+       {"name": "Fiscal Ordenó Radicar Cargos", "size": 482},
+       {"name": "Convicciones", "size": 42}
+      ]
+     },
+     {
+      "name": "2020",
+      "size": 960,
+      "children": [
+       {"name": "Fiscal Ordenó Radicar Cargos", "size": 406},
+       {"name": "Convicciones", "size": 10}
+      ]
+     },
+     {
+      "name": "2021",
+      "size": 360,
+      "children": [
+       {"name": "Fiscal Ordenó Radicar Cargos", "size": 152},
+       {"name": "Convicciones", "size": 4}
+      ]
+     }
+    ]
+   },
+   {
+    "name": "Caguas",
+    "children": [
+     {
+      "name": "2016",
+      "size": 570,
+      "children": [
+       {"name": "Fiscal Ordenó Radicar Cargos", "size": 40},
+       {"name": "Convicciones", "size": 0}
+      ]
+     },
+     {
+      "name": "2017",
+      "size": 578,
+      "children": [
+       {"name": "Fiscal Ordenó Radicar Cargos", "size": 172},
+       {"name": "Convicciones", "size": 2}
+      ]
+     },
+     {
+      "name": "2018",
+      "size": 141,
+      "children": [
+       {"name": "Fiscal Ordenó Radicar Cargos", "size": 290},
+       {"name": "Convicciones", "size": 19}
+      ]
+     },
+     {
+      "name": "2019",
+      "size": 125,
+      "children": [
+       {"name": "Fiscal Ordenó Radicar Cargos", "size": 285},
+       {"name": "Convicciones", "size": 17}
+      ]
+     },
+     {
+      "name": "2020",
+      "size": 82,
+      "children": [
+       {"name": "Fiscal Ordenó Radicar Cargos", "size": 242},
+       {"name": "Convicciones", "size": 31}
+      ]
+     },
+     {
+      "name": "2021",
+      "size": 126,
+      "children": [
+       {"name": "Fiscal Ordenó Radicar Cargos", "size": 87},
+       {"name": "Convicciones", "size": 4}
+      ]
+     }
+    ]
+   },
+   {
+    "name": "Carolina",
+    "children": [
+     {
+      "name": "2016",
+      "size": 570,
+      "children": [
+       {"name": "Fiscal Ordenó Radicar Cargos", "size": 40},
+       {"name": "Convicciones", "size": 0}
+      ]
+     },
+     {
+      "name": "2017",
+      "size": 578,
+      "children": [
+       {"name": "Fiscal Ordenó Radicar Cargos", "size": 172},
+       {"name": "Convicciones", "size": 2}
+      ]
+     },
+     {
+      "name": "2018",
+      "size": 141,
+      "children": [
+       {"name": "Fiscal Ordenó Radicar Cargos", "size": 290},
+       {"name": "Convicciones", "size": 19}
+      ]
+     },
+     {
+      "name": "2019",
+      "size": 125,
+      "children": [
+       {"name": "Fiscal Ordenó Radicar Cargos", "size": 285},
+       {"name": "Convicciones", "size": 17}
+      ]
+     },
+     {
+      "name": "2020",
+      "size": 82,
+      "children": [
+       {"name": "Fiscal Ordenó Radicar Cargos", "size": 242},
+       {"name": "Convicciones", "size": 31}
+      ]
+     },
+     {
+      "name": "2021",
+      "size": 126,
+      "children": [
+       {"name": "Fiscal Ordenó Radicar Cargos", "size": 87},
+       {"name": "Convicciones", "size": 4}
+      ]
+     }
+    ]
+   },
+   {
+    "name": "Fajardo",
+    "children": [
+     {
+      "name": "2016",
+      "size": 570,
+      "children": [
+       {"name": "Fiscal Ordenó Radicar Cargos", "size": 40},
+       {"name": "Convicciones", "size": 0}
+      ]
+     },
+     {
+      "name": "2017",
+      "size": 578,
+      "children": [
+       {"name": "Fiscal Ordenó Radicar Cargos", "size": 172},
+       {"name": "Convicciones", "size": 2}
+      ]
+     },
+     {
+      "name": "2018",
+      "size": 141,
+      "children": [
+       {"name": "Fiscal Ordenó Radicar Cargos", "size": 290},
+       {"name": "Convicciones", "size": 19}
+      ]
+     },
+     {
+      "name": "2019",
+      "size": 125,
+      "children": [
+       {"name": "Fiscal Ordenó Radicar Cargos", "size": 285},
+       {"name": "Convicciones", "size": 17}
+      ]
+     },
+     {
+      "name": "2020",
+      "size": 82,
+      "children": [
+       {"name": "Fiscal Ordenó Radicar Cargos", "size": 242},
+       {"name": "Convicciones", "size": 31}
+      ]
+     },
+     {
+      "name": "2021",
+      "size": 126,
+      "children": [
+       {"name": "Fiscal Ordenó Radicar Cargos", "size": 87},
+       {"name": "Convicciones", "size": 4}
+      ]
+     }
+    ]
+   },
+   {
+    "name": "Guayama",
+    "children": [
+     {
+      "name": "2016",
+      "size": 570,
+      "children": [
+       {"name": "Fiscal Ordenó Radicar Cargos", "size": 40},
+       {"name": "Convicciones", "size": 0}
+      ]
+     },
+     {
+      "name": "2017",
+      "size": 578,
+      "children": [
+       {"name": "Fiscal Ordenó Radicar Cargos", "size": 172},
+       {"name": "Convicciones", "size": 2}
+      ]
+     },
+     {
+      "name": "2018",
+      "size": 141,
+      "children": [
+       {"name": "Fiscal Ordenó Radicar Cargos", "size": 290},
+       {"name": "Convicciones", "size": 19}
+      ]
+     },
+     {
+      "name": "2019",
+      "size": 125,
+      "children": [
+       {"name": "Fiscal Ordenó Radicar Cargos", "size": 285},
+       {"name": "Convicciones", "size": 17}
+      ]
+     },
+     {
+      "name": "2020",
+      "size": 82,
+      "children": [
+       {"name": "Fiscal Ordenó Radicar Cargos", "size": 242},
+       {"name": "Convicciones", "size": 31}
+      ]
+     },
+     {
+      "name": "2021",
+      "size": 126,
+      "children": [
+       {"name": "Fiscal Ordenó Radicar Cargos", "size": 87},
+       {"name": "Convicciones", "size": 4}
+      ]
+     }
+    ]
+   },
+   {
+    "name": "Humacao",
+    "children": [
+     {
+      "name": "2016",
+      "size": 570,
+      "children": [
+       {"name": "Fiscal Ordenó Radicar Cargos", "size": 40},
+       {"name": "Convicciones", "size": 0}
+      ]
+     },
+     {
+      "name": "2017",
+      "size": 578,
+      "children": [
+       {"name": "Fiscal Ordenó Radicar Cargos", "size": 172},
+       {"name": "Convicciones", "size": 2}
+      ]
+     },
+     {
+      "name": "2018",
+      "size": 141,
+      "children": [
+       {"name": "Fiscal Ordenó Radicar Cargos", "size": 290},
+       {"name": "Convicciones", "size": 19}
+      ]
+     },
+     {
+      "name": "2019",
+      "size": 125,
+      "children": [
+       {"name": "Fiscal Ordenó Radicar Cargos", "size": 285},
+       {"name": "Convicciones", "size": 17}
+      ]
+     },
+     {
+      "name": "2020",
+      "size": 82,
+      "children": [
+       {"name": "Fiscal Ordenó Radicar Cargos", "size": 242},
+       {"name": "Convicciones", "size": 31}
+      ]
+     },
+     {
+      "name": "2021",
+      "size": 126,
+      "children": [
+       {"name": "Fiscal Ordenó Radicar Cargos", "size": 87},
+       {"name": "Convicciones", "size": 4}
+      ]
+     }
+    ]
+   },
+   {
+    "name": "Mayagüez",
+    "children": [
+     {
+      "name": "2016",
+      "size": 570,
+      "children": [
+       {"name": "Fiscal Ordenó Radicar Cargos", "size": 40},
+       {"name": "Convicciones", "size": 0}
+      ]
+     },
+     {
+      "name": "2017",
+      "size": 578,
+      "children": [
+       {"name": "Fiscal Ordenó Radicar Cargos", "size": 172},
+       {"name": "Convicciones", "size": 2}
+      ]
+     },
+     {
+      "name": "2018",
+      "size": 141,
+      "children": [
+       {"name": "Fiscal Ordenó Radicar Cargos", "size": 290},
+       {"name": "Convicciones", "size": 19}
+      ]
+     },
+     {
+      "name": "2019",
+      "size": 125,
+      "children": [
+       {"name": "Fiscal Ordenó Radicar Cargos", "size": 285},
+       {"name": "Convicciones", "size": 17}
+      ]
+     },
+     {
+      "name": "2020",
+      "size": 82,
+      "children": [
+       {"name": "Fiscal Ordenó Radicar Cargos", "size": 242},
+       {"name": "Convicciones", "size": 31}
+      ]
+     },
+     {
+      "name": "2021",
+      "size": 126,
+      "children": [
+       {"name": "Fiscal Ordenó Radicar Cargos", "size": 87},
+       {"name": "Convicciones", "size": 4}
+      ]
+     }
+    ]
+   },
+   {
+    "name": "Ponce",
+    "children": [
+     {
+      "name": "2016",
+      "size": 570,
+      "children": [
+       {"name": "Fiscal Ordenó Radicar Cargos", "size": 40},
+       {"name": "Convicciones", "size": 0}
+      ]
+     },
+     {
+      "name": "2017",
+      "size": 578,
+      "children": [
+       {"name": "Fiscal Ordenó Radicar Cargos", "size": 172},
+       {"name": "Convicciones", "size": 2}
+      ]
+     },
+     {
+      "name": "2018",
+      "size": 141,
+      "children": [
+       {"name": "Fiscal Ordenó Radicar Cargos", "size": 290},
+       {"name": "Convicciones", "size": 19}
+      ]
+     },
+     {
+      "name": "2019",
+      "size": 125,
+      "children": [
+       {"name": "Fiscal Ordenó Radicar Cargos", "size": 285},
+       {"name": "Convicciones", "size": 17}
+      ]
+     },
+     {
+      "name": "2020",
+      "size": 82,
+      "children": [
+       {"name": "Fiscal Ordenó Radicar Cargos", "size": 242},
+       {"name": "Convicciones", "size": 31}
+      ]
+     },
+     {
+      "name": "2021",
+      "size": 126,
+      "children": [
+       {"name": "Fiscal Ordenó Radicar Cargos", "size": 87},
+       {"name": "Convicciones", "size": 4}
+      ]
+     }
+    ]
+   },
+   {
+    "name": "San Juan",
+    "children": [
+     {
+      "name": "2016",
+      "size": 570,
+      "children": [
+       {"name": "Fiscal Ordenó Radicar Cargos", "size": 40},
+       {"name": "Convicciones", "size": 0}
+      ]
+     },
+     {
+      "name": "2017",
+      "size": 578,
+      "children": [
+       {"name": "Fiscal Ordenó Radicar Cargos", "size": 172},
+       {"name": "Convicciones", "size": 2}
+      ]
+     },
+     {
+      "name": "2018",
+      "size": 141,
+      "children": [
+       {"name": "Fiscal Ordenó Radicar Cargos", "size": 290},
+       {"name": "Convicciones", "size": 19}
+      ]
+     },
+     {
+      "name": "2019",
+      "size": 125,
+      "children": [
+       {"name": "Fiscal Ordenó Radicar Cargos", "size": 285},
+       {"name": "Convicciones", "size": 17}
+      ]
+     },
+     {
+      "name": "2020",
+      "size": 82,
+      "children": [
+       {"name": "Fiscal Ordenó Radicar Cargos", "size": 242},
+       {"name": "Convicciones", "size": 31}
+      ]
+     },
+     {
+      "name": "2021",
+      "size": 126,
+      "children": [
+       {"name": "Fiscal Ordenó Radicar Cargos", "size": 87},
+       {"name": "Convicciones", "size": 4}
+      ]
+     }
+    ]
+   },
+   {
+    "name": "Utuado",
+    "children": [
+     {
+      "name": "2016",
+      "size": 570,
+      "children": [
+       {"name": "Fiscal Ordenó Radicar Cargos", "size": 40},
+       {"name": "Convicciones", "size": 0}
+      ]
+     },
+     {
+      "name": "2017",
+      "size": 578,
+      "children": [
+       {"name": "Fiscal Ordenó Radicar Cargos", "size": 172},
+       {"name": "Convicciones", "size": 2}
+      ]
+     },
+     {
+      "name": "2018",
+      "size": 141,
+      "children": [
+       {"name": "Fiscal Ordenó Radicar Cargos", "size": 290},
+       {"name": "Convicciones", "size": 19}
+      ]
+     },
+     {
+      "name": "2019",
+      "size": 125,
+      "children": [
+       {"name": "Fiscal Ordenó Radicar Cargos", "size": 285},
+       {"name": "Convicciones", "size": 17}
+      ]
+     },
+     {
+      "name": "2020",
+      "size": 82,
+      "children": [
+       {"name": "Fiscal Ordenó Radicar Cargos", "size": 242},
+       {"name": "Convicciones", "size": 31}
+      ]
+     },
+     {
+      "name": "2021",
+      "size": 126,
+      "children": [
+       {"name": "Fiscal Ordenó Radicar Cargos", "size": 87},
+       {"name": "Convicciones", "size": 4}
+      ]
+     }
+    ]
+   }
+  ]
+ }

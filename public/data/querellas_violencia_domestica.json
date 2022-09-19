@@ -1,0 +1,296 @@
+[
+	{
+		"anio" : "2016",
+		"total" : 1422,
+		"violencia" : "Amenaza",
+		"id" : "amenaza"
+	},
+	{
+		"anio" : "2016",
+		"total" : 5481,
+		"violencia" : "Físico",
+		"id" : "fisico"
+	},
+	{
+		"anio" : "2016",
+		"total" : 981,
+		"violencia" : "Psicológico o emocional",
+		"id" : "psicologico-o-emocional"
+	},
+	{
+		"anio" : "2016",
+		"total" : 56,
+		"violencia" : "Restricción de libertad",
+		"id" : "restriccion-de-libertad"
+	},
+	{
+		"anio" : "2016",
+		"total" : 41,
+		"violencia" : "Sexual",
+		"id" : "sexual"
+	},
+	{
+		"anio" : "2016",
+		"total" : 717,
+		"violencia" : "Violación de orden de protección",
+		"id" : "violacion-de-orden-de-proteccion"
+	},
+	{
+		"anio" : "2016",
+		"total" : 512,
+		"violencia" : "Otro",
+		"id" : "otro"
+	},
+	{
+		"anio" : "2017",
+		"total" : 1101,
+		"violencia" : "Amenaza",
+		"id" : "amenaza"
+	},
+	{
+		"anio" : "2017",
+		"total" : 3795,
+		"violencia" : "Físico",
+		"id" : "fisico"
+	},
+	{
+		"anio" : "2017",
+		"total" : 791,
+		"violencia" : "Psicológico o emocional",
+		"id" : "psicologico-o-emocional"
+	},
+	{
+		"anio" : "2017",
+		"total" : 35,
+		"violencia" : "Restricción de libertad",
+		"id" : "restriccion-de-libertad"
+	},
+	{
+		"anio" : "2017",
+		"total" : 34,
+		"violencia" : "Sexual",
+		"id" : "sexual"
+	},
+	{
+		"anio" : "2017",
+		"total" : 534,
+		"violencia" : "Violación de orden de protección",
+		"id" : "violacion-de-orden-de-proteccion"
+	},
+	{
+		"anio" : "2017",
+		"total" : 419,
+		"violencia" : "Otro",
+		"id" : "otro"
+	},
+	{
+		"anio" : "2018",
+		"total" : 1024,
+		"violencia" : "Amenaza",
+		"id" : "amenaza"
+	},
+	{
+		"anio" : "2018",
+		"total" : 3411,
+		"violencia" : "Físico",
+		"id" : "fisico"
+	},
+	{
+		"anio" : "2018",
+		"total" : 684,
+		"violencia" : "Psicológico o emocional",
+		"id" : "psicologico-o-emocional"
+	},
+	{
+		"anio" : "2018",
+		"total" : 56,
+		"violencia" : "Restricción de libertad",
+		"id" : "restriccion-de-libertad"
+	},
+	{
+		"anio" : "2018",
+		"total" : 41,
+		"violencia" : "Sexual",
+		"id" : "sexual"
+	},
+	{
+		"anio" : "2018",
+		"total" : 482,
+		"violencia" : "Violación de orden de protección",
+		"id" : "violacion-de-orden-de-proteccion"
+	},
+	{
+		"anio" : "2018",
+		"total" : 445,
+		"violencia" : "Otro",
+		"id" : "otro"
+	},
+	{
+		"anio" : "2019",
+		"total" : 1224,
+		"violencia" : "Amenaza",
+		"id" : "amenaza"
+	},
+	{
+		"anio" : "2019",
+		"total" : 3490,
+		"violencia" : "Físico",
+		"id" : "fisico"
+	},
+	{
+		"anio" : "2019",
+		"total" : 839,
+		"violencia" : "Psicológico o emocional",
+		"id" : "psicologico-o-emocional"
+	},
+	{
+		"anio" : "2019",
+		"total" : 66,
+		"violencia" : "Restricción de libertad",
+		"id" : "restriccion-de-libertad"
+	},
+	{
+		"anio" : "2019",
+		"total" : 79,
+		"violencia" : "Sexual",
+		"id" : "sexual"
+	},
+	{
+		"anio" : "2019",
+		"total" : 535,
+		"violencia" : "Violación de orden de protección",
+		"id" : "violacion-de-orden-de-proteccion"
+	},
+	{
+		"anio" : "2019",
+		"total" : 536,
+		"violencia" : "Otro",
+		"id" : "otro"
+	},
+	{
+		"anio" : "2020",
+		"total" : 1085,
+		"violencia" : "Amenaza",
+		"id" : "amenaza"
+	},
+	{
+		"anio" : "2020",
+		"total" : 3035,
+		"violencia" : "Físico",
+		"id" : "fisico"
+	},
+	{
+		"anio" : "2020",
+		"total" : 742,
+		"violencia" : "Psicológico o emocional",
+		"id" : "psicologico-o-emocional"
+	},
+	{
+		"anio" : "2020",
+		"total" : 53,
+		"violencia" : "Restricción de libertad",
+		"id" : "restriccion-de-libertad"
+	},
+	{
+		"anio" : "2020",
+		"total" : 49,
+		"violencia" : "Sexual",
+		"id" : "sexual"
+	},
+	{
+		"anio" : "2020",
+		"total" : 452,
+		"violencia" : "Violación de orden de protección",
+		"id" : "violacion-de-orden-de-proteccion"
+	},
+	{
+		"anio" : "2020",
+		"total" : 838,
+		"violencia" : "Otro",
+		"id" : "otro"
+	},
+	{
+		"anio" : "2021",
+		"total" : 1292,
+		"violencia" : "Amenaza",
+		"id" : "amenaza"
+	},
+	{
+		"anio" : "2021",
+		"total" : 3750,
+		"violencia" : "Físico",
+		"id" : "fisico"
+	},
+	{
+		"anio" : "2021",
+		"total" : 930,
+		"violencia" : "Psicológico o emocional",
+		"id" : "psicologico-o-emocional"
+	},
+	{
+		"anio" : "2021",
+		"total" : 77,
+		"violencia" : "Restricción de libertad",
+		"id" : "restriccion-de-libertad"
+	},
+	{
+		"anio" : "2021",
+		"total" : 64,
+		"violencia" : "Sexual",
+		"id" : "sexual"
+	},
+	{
+		"anio" : "2021",
+		"total" : 582,
+		"violencia" : "Violación de orden de protección",
+		"id" : "violacion-de-orden-de-proteccion"
+	},
+	{
+		"anio" : "2021",
+		"total" : 870,
+		"violencia" : "Otro",
+		"id" : "otro"
+	},
+	{
+		"anio" : "2022",
+		"total" : 351,
+		"violencia" : "Amenaza",
+		"id" : "amenaza"
+	},
+	{
+		"anio" : "2022",
+		"total" : 1035,
+		"violencia" : "Físico",
+		"id" : "fisico"
+	},
+	{
+		"anio" : "2022",
+		"total" : 247,
+		"violencia" : "Psicológico o emocional",
+		"id" : "psicologico-o-emocional"
+	},
+	{
+		"anio" : "2022",
+		"total" : 24,
+		"violencia" : "Restricción de libertad",
+		"id" : "restriccion-de-libertad"
+	},
+	{
+		"anio" : "2022",
+		"total" : 20,
+		"violencia" : "Sexual",
+		"id" : "sexual"
+	},
+	{
+		"anio" : "2022",
+		"total" : 188,
+		"violencia" : "Violación de orden de protección",
+		"id" : "violacion-de-orden-de-proteccion"
+	},
+	{
+		"anio" : "2022",
+		"total" : 294,
+		"violencia" : "Otro",
+		"id" : "otro"
+	}
+]

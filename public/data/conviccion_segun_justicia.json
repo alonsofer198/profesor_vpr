@@ -1,0 +1,132 @@
+[
+    {
+        "area" : "Aibonito",
+        "area_id" : "aibonito",
+        "radicacion" : 86,
+        "casos_archivados" : 11,
+        "convicciones" : 35,
+        "absoluciones":0,
+        "anio" : "2022",
+        "municipio_ids" : "72043-72107-72009-72019-72045"
+      },
+      {
+        "area" : "San Juan",
+        "area_id" : "san-juan",
+        "radicacion" : 190,
+        "casos_archivados" : 6,
+        "convicciones" : 50,
+        "absoluciones": 4,
+        "anio" : "2022",
+        "municipio_ids" : "72127"
+      },
+      {
+        "area" : "Arecibo",
+        "area_id" : "arecibo",
+        "radicacion" : 93,
+        "casos_archivados" : 4,
+        "convicciones" : 34,
+        "absoluciones":7,
+        "anio" : "2022",
+        "municipio_ids" : "72115-72027-72065-72013-72017-72054-72091-72039-72101"
+      },
+      {
+        "area" : "Ponce",
+        "area_id" : "ponce",
+        "radicacion" : 145,
+        "casos_archivados" : 7,
+        "convicciones" : 45,
+        "absoluciones": 10,
+        "anio" : "2022",
+        "municipio_ids" : "72055-72153-72059-72111-72113-72149-72075-72133"
+      },
+      {
+        "area" : "Humacao",
+        "area_id" : "humacao",
+        "radicacion" : 98,
+        "casos_archivados" : 3,
+        "convicciones" : 40,
+        "absoluciones": 6,
+        "anio" : "2022",
+        "municipio_ids" : "72095-72151-72069-72085-72103"
+      },
+      {
+        "area" : "Mayagüez",
+        "area_id" : "mayaguez",
+        "radicacion" : 70,
+        "casos_archivados" : 5,
+        "convicciones" : 74,
+        "absoluciones": 8,
+        "anio" : "2022",
+        "municipio_ids" : "72023-72067-72011-72083-72093-72079-72121-72125-72097"
+      },
+      {
+        "area" : "Caguas",
+        "area_id" : "caguas",
+        "radicacion" : 103,
+        "casos_archivados" : 0,
+        "convicciones" : 73,
+        "absoluciones": 11,
+        "anio" : "2022",
+        "municipio_ids" : "72129-72077-72063-72025-72035-72041-72007"
+      },
+      {
+        "area" : "Bayamón",
+        "area_id" : "Bayamón",
+        "radicacion" : 154,
+        "casos_archivados" : 12,
+        "convicciones" : 44,
+        "absoluciones": 8,
+        "anio" : "2022",
+        "municipio_ids" : "72145-72143-72051-72137-72033-72061-72021-72135-72105-72047"
+      },
+      {
+        "area" : "Carolina",
+        "area_id" : "carolina",
+        "radicacion" : 81,
+        "casos_archivados" : 14,
+        "convicciones" : 31,
+        "absoluciones": 1,
+        "anio" : "2022",
+        "municipio_ids" : "72087-72029-72031-72139"
+      },
+      {
+        "area" : "Guayama",
+        "area_id" : "guayama",
+        "radicacion" : 57,
+        "casos_archivados" : 5,
+        "convicciones" : 26,
+        "absoluciones": 5,
+        "anio" : "2022",
+        "municipio_ids" : "72123-72057-72015-72109"
+      },
+      {
+        "area" : "Aguadilla",
+        "area_id" : "aguadilla",
+        "radicacion" : 141,
+        "casos_archivados" : 1,
+        "convicciones" : 88,
+        "absoluciones": 33,
+        "anio" : "2022",
+        "municipio_ids" : "72005-72003-72117-72099-72071-72131"
+      },
+      {
+        "area" : "Utuado",
+        "area_id" : "utuado",
+        "radicacion" : 26,
+        "casos_archivados" : 6,
+        "convicciones" : 28,
+        "absoluciones": 3,
+        "anio" : "2022",
+        "municipio_ids" : "72081-72001-72141-72073"
+      },
+      {
+        "area" : "Fajardo",
+        "area_id" : "fajardo",
+        "radicacion" : 59,
+        "casos_archivados" : 1,
+        "convicciones" : 8,
+        "absoluciones": 3,
+        "anio" : "2022",
+        "municipio_ids" : "72147-72049-72053-72037-72089-72119"
+      }
+]
