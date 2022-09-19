@@ -1,5 +1,5 @@
 module.exports = {
-  publicPath: '/__profesoresVPR',
+  publicPath: '/__nuevodia',
   pages: {
     index: {
       entry: 'src/main.js',
