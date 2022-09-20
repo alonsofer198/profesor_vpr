@@ -69,50 +69,7 @@
 							</b-tab>
 							<b-tab title="Radicación de Cargos y Convicciones">
 								<div class="d-block">
-									<div class="actualizacion">
-										Actualizaciones desde el 2016 hasta el 30 de abril de 2022.
-									</div>
-									
-									<div class="bajada">
-										En {{ areaName }} se ordenó levantar cargos en {{ numeral(percentAreaName.cargos).format('0,0') }} incidentes atendidos por la Policía estatal a presuntos agresores por violencia de género, pero la Policía reporta que solo el <span style="background-color: #429adb; color: #fff;">{{ numeral(percentAreaName.convicciones).format('0,0') }}% fue encontrado culpable.</span>.
-									</div>
 
-									<div class="bar-col-container justify-content-center">
-										<div class="col-bar" v-for="m in allByArea" :key="`convicciones_${m.anio}_${m.area}`">
-
-											<div class="row m-1">
-												<div class="col-12">
-													<div class="row justify-content-center">
-		
-														<div class="col-auto bar-container-2 bar-container">
-															<div class="label" :style="`top: ${calcTopConvictos('fiscal_ordeno_radicar_cargos', m.fiscal_ordeno_radicar_cargos, allByArea)}`">{{numeral(m.fiscal_ordeno_radicar_cargos).format('0,0')}} </div>
-															<div class="bar-percent">
-																<div class="percent-incidentes" :style="`background-color: #9bc3e0; height: ${calcPercentConvictos('fiscal_ordeno_radicar_cargos', m.fiscal_ordeno_radicar_cargos, allByArea)}`"></div>
-															</div>
-														</div>
-		
-														<div class="col-auto bar-container-2 bar-container">
-															<div class="label" :style="`top: ${calcTopConvictos('convicciones', m.convicciones, allByArea)}`">{{ numeral(m.convicciones).format('0,0') }}</div>
-															<div class="bar-percent">
-																<div class="percent-incidentes" :style="`background-color: #429adb; height: ${calcPercentConvictos('convicciones', m.convicciones, allByArea)}`"></div>
-															</div>
-														</div>
-													</div>
-												</div>
-												<div class="col-12 text-center border-top anio-bar">
-													<span>{{ m.anio }}</span>
-												</div>
-											</div>
-										</div>
-									</div>
-
-									<div class="legend-container">
-										<div class="legend-item legend-cargos"><span></span><label>Fiscal ordenó radicar cargos</label></div>
-										<div class="legend-item legend-convicciones"><span></span><label>Convicciones</label></div>
-									</div>
-									<div class="text-center fuente pt-3">
-										Fuente: Policía de Puerto Rico
-									</div>
 								</div>
 							</b-tab>
 

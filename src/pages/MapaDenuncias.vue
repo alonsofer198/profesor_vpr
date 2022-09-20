@@ -5,9 +5,6 @@
       <div class="col-12 p-0">
         <div class="map-block" ref="widthContainer">
           <MapaPrincipal :width-container="widthContainer" v-if="widthContainer > 0" />
-          <div class="p-3">
-            <Summary />
-          </div> 
         </div>
 
       </div>
@@ -20,14 +17,12 @@
 
 
 import MapaPrincipal from '@/components/MapaPrincipal.vue'
-import Summary from '@/components/Summary.vue'
 import IframeResizer from '@/utils/iframe-resizer'
 
 export default {
   name: 'MapaDenuncias',
   components: {
-    MapaPrincipal,
-    Summary,
+    MapaPrincipal
   },
   mounted () {
     IframeResizer.create()

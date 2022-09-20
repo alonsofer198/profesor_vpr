@@ -16,35 +16,12 @@
 		</div>
 
 		<div ref="map_container_pr" id="map_container" class="map_container">
-			<div id="map_story" :class="summaryStory.total === 0 ? `close` : ``">
-				<div class="container_map">
-					<h4>Región policiaca</h4>
-					<h2>{{ summaryStory.area }}</h2>
-					<p>Se han reportado <span class="incidentes-badge">{{ numeral(summaryStory.total).format('0,0') }} incidentes de violencia doméstica</span> desde el 2016 al 30 de abril de 2022,según la Policía de Puerto Rico.
-					</p>
-					<p><b>El {{ ((summaryStory.total_mujeres / summaryStory.total) * 100).toFixed(0) }}% de las víctimas fueron <span class="">mujeres.</span></b></p>
-					
-					<p>La fiscalía levantó cargos criminales en <span class="">{{ numeral(summaryStory.fiscal_ordeno_radicar_cargos).format('0,0') }}</span> casos atendidos por la Policía estatal. Los datos de Justicia para 2022, en la gráfica separada, incluye casos atendidos por la Policía Municipal, según la agencia.</p>
-					
-					<p>La Policía ha registrado <span class="">{{ summaryStory.conviccion_segun_justicia }}</span> convicciones por Ley 54 de violencia doméstica en casos radicados hasta abril de 2022.</p>
-
-					<p>Justicia informó <span class="">{{ summaryStory.sistema_justicia_convicciones }}</span> convicciones en los primeros cuatro meses del 2022, incluyendo casos resueltos que corresponden a años anteriores. No proveyó datos por región para años anteriores.</p>
-				</div>
-			</div>
 			<svg width="100%" :height="height" class="plan-vector-map" id="map_svg" ref="map_svg">
 				<g ref="pr_municipios"></g>
 				<g ref="labels_regiones"></g>
 				<g ref="labels_municipios"></g>
 				<g class="legendQuant" ref="legend_municipios"></g>
 			</svg>
-			<div class="tooltip-pr" v-if="currentTooltip.area">
-				<div>Región policiaca</div>
-				<h2>{{ currentTooltip.area }}</h2>
-				<div>Incidentes: <b>{{numeral(currentTooltip.incidentes).format('0,0')}}</b></div>
-				<div>Masculino: <b>{{numeral(currentTooltip.masculino).format('0,0')}}</b></div>
-				<div>Femenino: <b>{{numeral(currentTooltip.femenino).format('0,0')}}</b></div>
-				<div v-if="currentTooltip.genero_desconocido > 0">Género desconocido:  <b>{{numeral(currentTooltip.genero_desconocido).format('0,0')}}</b></div>
-			</div>
 		</div>
 		
 	</div>
