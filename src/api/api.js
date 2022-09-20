@@ -12,7 +12,7 @@ let procuradora_ataques = []
 export default {
   getAllIncidentes(cb) {
     axios
-    .get(`/__nuevodia/data/victimas_genero.json`)
+    .get(`/__profesoresupr/data/victimas_genero.json`)
     .then(response => {
       incidentes = response.data 
       setTimeout(() => cb(incidentes), 100)
@@ -20,7 +20,7 @@ export default {
   },
   getAllOrdenes(cb) {
     axios
-    .get(`/__nuevodia/data/ordenes_proteccion.json`)
+    .get(`/__profesoresupr/data/ordenes_proteccion.json`)
     .then(response => {
       if(ordenes.length == 0) {
         ordenes = response.data        
@@ -31,7 +31,7 @@ export default {
   },
   getAllConvicciones(cb, { file }) {
     axios
-    .get(`/__nuevodia/data/${file}.json`)
+    .get(`/__profesoresupr/data/${file}.json`)
     .then(response => {
       const convicciones = response.data
       setTimeout(() => cb(convicciones), 100)
@@ -39,7 +39,7 @@ export default {
   },
   getAllJusticiaConviccion(cb) {
     axios
-    .get(`/__nuevodia/data/conviccion_segun_justicia.json`)
+    .get(`/__profesoresupr/data/conviccion_segun_justicia.json`)
     .then(response => {
         const convicciones = response.data
       setTimeout(() => cb(convicciones), 100)
@@ -47,7 +47,7 @@ export default {
   },
   getAllViolenciaDomestica(cb) {
     axios
-    .get(`/__nuevodia/data/querellas_violencia_domestica.json`)
+    .get(`/__profesoresupr/data/querellas_violencia_domestica.json`)
     .then(response => {
       if(tipo_ataques.length == 0) {
         tipo_ataques = response.data        
@@ -58,7 +58,7 @@ export default {
   },
   getAllProcuradoraMujer(cb) {
     axios
-    .get(`/__nuevodia/data/procuradora_mujer.json`)
+    .get(`/__profesoresupr/data/procuradora_mujer.json`)
     .then(response => {
       if(procuradora_ataques.length == 0) {
         procuradora_ataques = response.data        
@@ -75,7 +75,7 @@ export default {
   },
   getJusticiaConviccionesbyArea(cb, { area_id }) {
     axios
-    .get(`/__nuevodia/data/conviccion_segun_justicia.json`)
+    .get(`/__profesoresupr/data/conviccion_segun_justicia.json`)
     .then(response => {
       let filtered = filter(response.data, ['area_id', area_id])
       setTimeout(() => cb(filtered), 100)
@@ -90,7 +90,7 @@ export default {
 
   getAllVictimas(cb) {
     axios
-    .get(`/__nuevodia/data/mujeres_asesinadas.json`)
+    .get(`/__profesoresupr/data/mujeres_asesinadas.json`)
     .then(response => {
         const victimas = response.data        
       setTimeout(() => cb(victimas), 100)

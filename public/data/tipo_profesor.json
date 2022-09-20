@@ -1,0 +1,2575 @@
+[
+  {
+		"anio_fiscal" : "2010-11",
+		"sede" : "Mayagüez",
+		"cantidad" : 722,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2010-11",
+		"sede" : "Mayagüez",
+		"cantidad" : 14,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{
+		"anio_fiscal" : "2010-11",
+		"sede" : "Mayagüez",
+		"cantidad" : 13,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2010-11",
+		"sede" : "Río Piedras",
+		"cantidad" : 768,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2010-11",
+		"sede" : "Río Piedras",
+		"cantidad" : 278,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2010-11",
+		"sede" : "Río Piedras",
+		"cantidad" : 94,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2010-11",
+		"sede" : "Ciencias Médicas",
+		"cantidad" : 526,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2010-11",
+		"sede" : "Ciencias Médicas",
+		"cantidad" : 199,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2010-11",
+		"sede" : "Ciencias Médicas",
+		"cantidad" : 153,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2010-11",
+		"sede" : "Aguadilla",
+		"cantidad" : 115,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2010-11",
+		"sede" : "Aguadilla",
+		"cantidad" : 38,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2010-11",
+		"sede" : "Aguadilla",
+		"cantidad" : 17,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2010-11",
+		"sede" : "Arecibo",
+		"cantidad" : 189,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2010-11",
+		"sede" : "Arecibo",
+		"cantidad" : 77,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2010-11",
+		"sede" : "Arecibo",
+		"cantidad" : 3,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2010-11",
+		"sede" : "Bayamón",
+		"cantidad" : 176,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2010-11",
+		"sede" : "Bayamón",
+		"cantidad" : 100,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2010-11",
+		"sede" : "Bayamón",
+		"cantidad" : 0,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2010-11",
+		"sede" : "Carolina",
+		"cantidad" : 104,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2010-11",
+		"sede" : "Carolina",
+		"cantidad" : 73,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2010-11",
+		"sede" : "Carolina",
+		"cantidad" : 21,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2010-11",
+		"sede" : "Cayey",
+		"cantidad" : 141,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2010-11",
+		"sede" : "Cayey",
+		"cantidad" : 25,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2010-11",
+		"sede" : "Cayey",
+		"cantidad" : 31,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2010-11",
+		"sede" : "Humacao",
+		"cantidad" : 259,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2010-11",
+		"sede" : "Humacao",
+		"cantidad" : 71,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2010-11",
+		"sede" : "Humacao",
+		"cantidad" : 3,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2010-11",
+		"sede" : "Ponce",
+		"cantidad" : 99,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2010-11",
+		"sede" : "Ponce",
+		"cantidad" : 56,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2010-11",
+		"sede" : "Ponce",
+		"cantidad" : 19,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2010-11",
+		"sede" : "Utuado",
+		"cantidad" : 77,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2010-11",
+		"sede" : "Utuado",
+		"cantidad" : 28,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2010-11",
+		"sede" : "Utuado",
+		"cantidad" : 6,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2011-12",
+		"sede" : "Mayagüez",
+		"cantidad" : 688,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2011-12",
+		"sede" : "Mayagüez",
+		"cantidad" : 5,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{
+		"anio_fiscal" : "2011-12",
+		"sede" : "Mayagüez",
+		"cantidad" : 24,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2011-12",
+		"sede" : "Río Piedras",
+		"cantidad" : 726,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2011-12",
+		"sede" : "Río Piedras",
+		"cantidad" : 264,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2011-12",
+		"sede" : "Río Piedras",
+		"cantidad" : 83,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2011-12",
+		"sede" : "Ciencias Médicas",
+		"cantidad" : 380,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2011-12",
+		"sede" : "Ciencias Médicas",
+		"cantidad" : 0,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2011-12",
+		"sede" : "Ciencias Médicas",
+		"cantidad" : 70,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2011-12",
+		"sede" : "Aguadilla",
+		"cantidad" : 108,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2011-12",
+		"sede" : "Aguadilla",
+		"cantidad" : 40,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2011-12",
+		"sede" : "Aguadilla",
+		"cantidad" : 17,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2011-12",
+		"sede" : "Arecibo",
+		"cantidad" : 183,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2011-12",
+		"sede" : "Arecibo",
+		"cantidad" : 64,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2011-12",
+		"sede" : "Arecibo",
+		"cantidad" : 14,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2011-12",
+		"sede" : "Bayamón",
+		"cantidad" : 176,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2011-12",
+		"sede" : "Bayamón",
+		"cantidad" : 80,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2011-12",
+		"sede" : "Bayamón",
+		"cantidad" : 0,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2011-12",
+		"sede" : "Carolina",
+		"cantidad" : 105,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2011-12",
+		"sede" : "Carolina",
+		"cantidad" : 96,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2011-12",
+		"sede" : "Carolina",
+		"cantidad" : 23,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2011-12",
+		"sede" : "Cayey",
+		"cantidad" : 134,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2011-12",
+		"sede" : "Cayey",
+		"cantidad" : 22,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2011-12",
+		"sede" : "Cayey",
+		"cantidad" : 46,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2011-12",
+		"sede" : "Humacao",
+		"cantidad" : 240,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2011-12",
+		"sede" : "Humacao",
+		"cantidad" : 54,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2011-12",
+		"sede" : "Humacao",
+		"cantidad" : 0,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2011-12",
+		"sede" : "Ponce",
+		"cantidad" : 91,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2011-12",
+		"sede" : "Ponce",
+		"cantidad" : 38,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2011-12",
+		"sede" : "Ponce",
+		"cantidad" : 25,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2011-12",
+		"sede" : "Utuado",
+		"cantidad" : 74,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2011-12",
+		"sede" : "Utuado",
+		"cantidad" : 22,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2011-12",
+		"sede" : "Utuado",
+		"cantidad" : 6,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2012-13",
+		"sede" : "Mayagüez",
+		"cantidad" : 658,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2012-13",
+		"sede" : "Mayagüez",
+		"cantidad" : 18,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{
+		"anio_fiscal" : "2012-13",
+		"sede" : "Mayagüez",
+		"cantidad" : 31,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2012-13",
+		"sede" : "Río Piedras",
+		"cantidad" : 692,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2012-13",
+		"sede" : "Río Piedras",
+		"cantidad" : 263,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2012-13",
+		"sede" : "Río Piedras",
+		"cantidad" : 103,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2012-13",
+		"sede" : "Ciencias Médicas",
+		"cantidad" : 575,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2012-13",
+		"sede" : "Ciencias Médicas",
+		"cantidad" : 37,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2012-13",
+		"sede" : "Ciencias Médicas",
+		"cantidad" : 58,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2012-13",
+		"sede" : "Aguadilla",
+		"cantidad" : 109,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2012-13",
+		"sede" : "Aguadilla",
+		"cantidad" : 44,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2012-13",
+		"sede" : "Aguadilla",
+		"cantidad" : 15,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2012-13",
+		"sede" : "Arecibo",
+		"cantidad" : 181,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2012-13",
+		"sede" : "Arecibo",
+		"cantidad" : 56,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2012-13",
+		"sede" : "Arecibo",
+		"cantidad" : 20,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2012-13",
+		"sede" : "Bayamón",
+		"cantidad" : 180,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2012-13",
+		"sede" : "Bayamón",
+		"cantidad" : 92,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2012-13",
+		"sede" : "Bayamón",
+		"cantidad" : 0,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2012-13",
+		"sede" : "Carolina",
+		"cantidad" : 104,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2012-13",
+		"sede" : "Carolina",
+		"cantidad" : 86,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2012-13",
+		"sede" : "Carolina",
+		"cantidad" : 25,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2012-13",
+		"sede" : "Cayey",
+		"cantidad" : 131,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2012-13",
+		"sede" : "Cayey",
+		"cantidad" : 41,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2012-13",
+		"sede" : "Cayey",
+		"cantidad" : 39,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2012-13",
+		"sede" : "Humacao",
+		"cantidad" : 225,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2012-13",
+		"sede" : "Humacao",
+		"cantidad" : 52,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2012-13",
+		"sede" : "Humacao",
+		"cantidad" : 2,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2012-13",
+		"sede" : "Ponce",
+		"cantidad" : 91,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2012-13",
+		"sede" : "Ponce",
+		"cantidad" : 47,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2012-13",
+		"sede" : "Ponce",
+		"cantidad" : 24,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2012-13",
+		"sede" : "Utuado",
+		"cantidad" : 70,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2012-13",
+		"sede" : "Utuado",
+		"cantidad" : 13,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2012-13",
+		"sede" : "Utuado",
+		"cantidad" : 9,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2013-14",
+		"sede" : "Mayagüez",
+		"cantidad" : 642,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2013-14",
+		"sede" : "Mayagüez",
+		"cantidad" : 22,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{
+		"anio_fiscal" : "2013-14",
+		"sede" : "Mayagüez",
+		"cantidad" : 35,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2013-14",
+		"sede" : "Río Piedras",
+		"cantidad" : 714,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2013-14",
+		"sede" : "Río Piedras",
+		"cantidad" : 301,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2013-14",
+		"sede" : "Río Piedras",
+		"cantidad" : 124,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2013-14",
+		"sede" : "Ciencias Médicas",
+		"cantidad" : 457,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2013-14",
+		"sede" : "Ciencias Médicas",
+		"cantidad" : 248,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2013-14",
+		"sede" : "Ciencias Médicas",
+		"cantidad" : 164,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2013-14",
+		"sede" : "Aguadilla",
+		"cantidad" : 105,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2013-14",
+		"sede" : "Aguadilla",
+		"cantidad" : 39,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2013-14",
+		"sede" : "Aguadilla",
+		"cantidad" : 21,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2013-14",
+		"sede" : "Arecibo",
+		"cantidad" : 181,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2013-14",
+		"sede" : "Arecibo",
+		"cantidad" : 63,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2013-14",
+		"sede" : "Arecibo",
+		"cantidad" : 17,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2013-14",
+		"sede" : "Bayamón",
+		"cantidad" : 176,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2013-14",
+		"sede" : "Bayamón",
+		"cantidad" : 97,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2013-14",
+		"sede" : "Bayamón",
+		"cantidad" : 0,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2013-14",
+		"sede" : "Carolina",
+		"cantidad" : 99,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2013-14",
+		"sede" : "Carolina",
+		"cantidad" : 109,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2013-14",
+		"sede" : "Carolina",
+		"cantidad" : 23,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2013-14",
+		"sede" : "Cayey",
+		"cantidad" : 132,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2013-14",
+		"sede" : "Cayey",
+		"cantidad" : 40,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2013-14",
+		"sede" : "Cayey",
+		"cantidad" : 41,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2013-14",
+		"sede" : "Humacao",
+		"cantidad" : 219,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2013-14",
+		"sede" : "Humacao",
+		"cantidad" : 60,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2013-14",
+		"sede" : "Humacao",
+		"cantidad" : 4,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2013-14",
+		"sede" : "Ponce",
+		"cantidad" : 90,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2013-14",
+		"sede" : "Ponce",
+		"cantidad" : 23,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2013-14",
+		"sede" : "Ponce",
+		"cantidad" : 54,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2013-14",
+		"sede" : "Utuado",
+		"cantidad" : 66,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2013-14",
+		"sede" : "Utuado",
+		"cantidad" : 17,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2013-14",
+		"sede" : "Utuado",
+		"cantidad" : 18,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2014-15",
+		"sede" : "Mayagüez",
+		"cantidad" : 637,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2014-15",
+		"sede" : "Mayagüez",
+		"cantidad" : 27,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{
+		"anio_fiscal" : "2014-15",
+		"sede" : "Mayagüez",
+		"cantidad" : 30,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2014-15",
+		"sede" : "Río Piedras",
+		"cantidad" : 680,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2014-15",
+		"sede" : "Río Piedras",
+		"cantidad" : 151,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2014-15",
+		"sede" : "Río Piedras",
+		"cantidad" : 118,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2014-15",
+		"sede" : "Ciencias Médicas",
+		"cantidad" : 457,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2014-15",
+		"sede" : "Ciencias Médicas",
+		"cantidad" : 237,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2014-15",
+		"sede" : "Ciencias Médicas",
+		"cantidad" : 164,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2014-15",
+		"sede" : "Aguadilla",
+		"cantidad" : 105,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2014-15",
+		"sede" : "Aguadilla",
+		"cantidad" : 42,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2014-15",
+		"sede" : "Aguadilla",
+		"cantidad" : 20,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2014-15",
+		"sede" : "Arecibo",
+		"cantidad" : 175,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2014-15",
+		"sede" : "Arecibo",
+		"cantidad" : 66,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2014-15",
+		"sede" : "Arecibo",
+		"cantidad" : 19,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2014-15",
+		"sede" : "Bayamón",
+		"cantidad" : 169,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2014-15",
+		"sede" : "Bayamón",
+		"cantidad" : 63,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2014-15",
+		"sede" : "Bayamón",
+		"cantidad" : 47,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2014-15",
+		"sede" : "Carolina",
+		"cantidad" : 105,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2014-15",
+		"sede" : "Carolina",
+		"cantidad" : 105,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2014-15",
+		"sede" : "Carolina",
+		"cantidad" : 18,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2014-15",
+		"sede" : "Cayey",
+		"cantidad" : 128,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2014-15",
+		"sede" : "Cayey",
+		"cantidad" : 41,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2014-15",
+		"sede" : "Cayey",
+		"cantidad" : 49,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2014-15",
+		"sede" : "Humacao",
+		"cantidad" : 217,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2014-15",
+		"sede" : "Humacao",
+		"cantidad" : 83,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2014-15",
+		"sede" : "Humacao",
+		"cantidad" : 1,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2014-15",
+		"sede" : "Ponce",
+		"cantidad" : 85,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2014-15",
+		"sede" : "Ponce",
+		"cantidad" : 83,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2014-15",
+		"sede" : "Ponce",
+		"cantidad" : 13,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2014-15",
+		"sede" : "Utuado",
+		"cantidad" : 64,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2014-15",
+		"sede" : "Utuado",
+		"cantidad" : 18,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2014-15",
+		"sede" : "Utuado",
+		"cantidad" : 15,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2015-16",
+		"sede" : "Mayagüez",
+		"cantidad" : 640,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2015-16",
+		"sede" : "Mayagüez",
+		"cantidad" : 39,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{
+		"anio_fiscal" : "2015-16",
+		"sede" : "Mayagüez",
+		"cantidad" : 37,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2015-16",
+		"sede" : "Río Piedras",
+		"cantidad" : 676,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2015-16",
+		"sede" : "Río Piedras",
+		"cantidad" : 173,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2015-16",
+		"sede" : "Río Piedras",
+		"cantidad" : 114,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2015-16",
+		"sede" : "Ciencias Médicas",
+		"cantidad" : 470,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2015-16",
+		"sede" : "Ciencias Médicas",
+		"cantidad" : 384,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2015-16",
+		"sede" : "Ciencias Médicas",
+		"cantidad" : 157,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2015-16",
+		"sede" : "Aguadilla",
+		"cantidad" : 106,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2015-16",
+		"sede" : "Aguadilla",
+		"cantidad" : 49,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2015-16",
+		"sede" : "Aguadilla",
+		"cantidad" : 22,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2015-16",
+		"sede" : "Arecibo",
+		"cantidad" : 173,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2015-16",
+		"sede" : "Arecibo",
+		"cantidad" : 114,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2015-16",
+		"sede" : "Arecibo",
+		"cantidad" : 0,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2015-16",
+		"sede" : "Bayamón",
+		"cantidad" : 160,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2015-16",
+		"sede" : "Bayamón",
+		"cantidad" : 56,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2015-16",
+		"sede" : "Bayamón",
+		"cantidad" : 57,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2015-16",
+		"sede" : "Carolina",
+		"cantidad" : 102,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2015-16",
+		"sede" : "Carolina",
+		"cantidad" : 119,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2015-16",
+		"sede" : "Carolina",
+		"cantidad" : 23,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2015-16",
+		"sede" : "Cayey",
+		"cantidad" : 126,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2015-16",
+		"sede" : "Cayey",
+		"cantidad" : 31,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2015-16",
+		"sede" : "Cayey",
+		"cantidad" : 46,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2015-16",
+		"sede" : "Humacao",
+		"cantidad" : 202,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2015-16",
+		"sede" : "Humacao",
+		"cantidad" : 116,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2015-16",
+		"sede" : "Humacao",
+		"cantidad" : 1,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2015-16",
+		"sede" : "Ponce",
+		"cantidad" : 81,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2015-16",
+		"sede" : "Ponce",
+		"cantidad" : 96,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2015-16",
+		"sede" : "Ponce",
+		"cantidad" : 19,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2015-16",
+		"sede" : "Utuado",
+		"cantidad" : 59,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2015-16",
+		"sede" : "Utuado",
+		"cantidad" : 22,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2015-16",
+		"sede" : "Utuado",
+		"cantidad" : 21,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2015-16",
+		"sede" : "Mayagüez",
+		"cantidad" : 640,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2015-16",
+		"sede" : "Mayagüez",
+		"cantidad" : 39,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{
+		"anio_fiscal" : "2015-16",
+		"sede" : "Mayagüez",
+		"cantidad" : 37,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2015-16",
+		"sede" : "Río Piedras",
+		"cantidad" : 676,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2015-16",
+		"sede" : "Río Piedras",
+		"cantidad" : 173,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2015-16",
+		"sede" : "Río Piedras",
+		"cantidad" : 114,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2015-16",
+		"sede" : "Ciencias Médicas",
+		"cantidad" : 470,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2015-16",
+		"sede" : "Ciencias Médicas",
+		"cantidad" : 384,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2015-16",
+		"sede" : "Ciencias Médicas",
+		"cantidad" : 157,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2015-16",
+		"sede" : "Aguadilla",
+		"cantidad" : 106,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2015-16",
+		"sede" : "Aguadilla",
+		"cantidad" : 49,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2015-16",
+		"sede" : "Aguadilla",
+		"cantidad" : 22,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2015-16",
+		"sede" : "Arecibo",
+		"cantidad" : 173,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2015-16",
+		"sede" : "Arecibo",
+		"cantidad" : 114,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2015-16",
+		"sede" : "Arecibo",
+		"cantidad" : 0,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2015-16",
+		"sede" : "Bayamón",
+		"cantidad" : 160,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2015-16",
+		"sede" : "Bayamón",
+		"cantidad" : 56,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2015-16",
+		"sede" : "Bayamón",
+		"cantidad" : 57,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2015-16",
+		"sede" : "Carolina",
+		"cantidad" : 102,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2015-16",
+		"sede" : "Carolina",
+		"cantidad" : 119,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2015-16",
+		"sede" : "Carolina",
+		"cantidad" : 23,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2015-16",
+		"sede" : "Cayey",
+		"cantidad" : 126,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2015-16",
+		"sede" : "Cayey",
+		"cantidad" : 31,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2015-16",
+		"sede" : "Cayey",
+		"cantidad" : 46,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2015-16",
+		"sede" : "Humacao",
+		"cantidad" : 202,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2015-16",
+		"sede" : "Humacao",
+		"cantidad" : 116,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2015-16",
+		"sede" : "Humacao",
+		"cantidad" : 1,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2015-16",
+		"sede" : "Ponce",
+		"cantidad" : 81,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2015-16",
+		"sede" : "Ponce",
+		"cantidad" : 96,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2015-16",
+		"sede" : "Ponce",
+		"cantidad" : 19,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2015-16",
+		"sede" : "Utuado",
+		"cantidad" : 59,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2015-16",
+		"sede" : "Utuado",
+		"cantidad" : 22,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2015-16",
+		"sede" : "Utuado",
+		"cantidad" : 21,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2016-17",
+		"sede" : "Mayagüez",
+		"cantidad" : 631,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2016-17",
+		"sede" : "Mayagüez",
+		"cantidad" : 41,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{
+		"anio_fiscal" : "2016-17",
+		"sede" : "Mayagüez",
+		"cantidad" : 59,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2016-17",
+		"sede" : "Río Piedras",
+		"cantidad" : 672,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2016-17",
+		"sede" : "Río Piedras",
+		"cantidad" : 426,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2016-17",
+		"sede" : "Río Piedras",
+		"cantidad" : 204,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2016-17",
+		"sede" : "Ciencias Médicas",
+		"cantidad" : 466,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2016-17",
+		"sede" : "Ciencias Médicas",
+		"cantidad" : 369,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2016-17",
+		"sede" : "Ciencias Médicas",
+		"cantidad" : 166,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2016-17",
+		"sede" : "Aguadilla",
+		"cantidad" : 106,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2016-17",
+		"sede" : "Aguadilla",
+		"cantidad" : 50,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2016-17",
+		"sede" : "Aguadilla",
+		"cantidad" : 32,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2016-17",
+		"sede" : "Arecibo",
+		"cantidad" : 148,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2016-17",
+		"sede" : "Arecibo",
+		"cantidad" : 85,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2016-17",
+		"sede" : "Arecibo",
+		"cantidad" : 0,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2016-17",
+		"sede" : "Bayamón",
+		"cantidad" : 155,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2016-17",
+		"sede" : "Bayamón",
+		"cantidad" : 57,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2016-17",
+		"sede" : "Bayamón",
+		"cantidad" : 58,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2016-17",
+		"sede" : "Carolina",
+		"cantidad" : 92,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2016-17",
+		"sede" : "Carolina",
+		"cantidad" : 125,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2016-17",
+		"sede" : "Carolina",
+		"cantidad" : 26,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2016-17",
+		"sede" : "Cayey",
+		"cantidad" : 122,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2016-17",
+		"sede" : "Cayey",
+		"cantidad" : 42,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2016-17",
+		"sede" : "Cayey",
+		"cantidad" : 47,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2016-17",
+		"sede" : "Humacao",
+		"cantidad" : 197,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2016-17",
+		"sede" : "Humacao",
+		"cantidad" : 132,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2016-17",
+		"sede" : "Humacao",
+		"cantidad" : 6,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2016-17",
+		"sede" : "Ponce",
+		"cantidad" : 90,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2016-17",
+		"sede" : "Ponce",
+		"cantidad" : 110,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2016-17",
+		"sede" : "Ponce",
+		"cantidad" : 20,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2016-17",
+		"sede" : "Utuado",
+		"cantidad" : 59,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2016-17",
+		"sede" : "Utuado",
+		"cantidad" : 14,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2016-17",
+		"sede" : "Utuado",
+		"cantidad" : 30,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2017-18",
+		"sede" : "Mayagüez",
+		"cantidad" : 611,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2017-18",
+		"sede" : "Mayagüez",
+		"cantidad" : 41,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{
+		"anio_fiscal" : "2017-18",
+		"sede" : "Mayagüez",
+		"cantidad" : 48,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2017-18",
+		"sede" : "Río Piedras",
+		"cantidad" : 640,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2017-18",
+		"sede" : "Río Piedras",
+		"cantidad" : 320,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2017-18",
+		"sede" : "Río Piedras",
+		"cantidad" : 208,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2017-18",
+		"sede" : "Ciencias Médicas",
+		"cantidad" : 0,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2017-18",
+		"sede" : "Ciencias Médicas",
+		"cantidad" : 0,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2017-18",
+		"sede" : "Ciencias Médicas",
+		"cantidad" : 0,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2017-18",
+		"sede" : "Aguadilla",
+		"cantidad" : 102,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2017-18",
+		"sede" : "Aguadilla",
+		"cantidad" : 59,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2017-18",
+		"sede" : "Aguadilla",
+		"cantidad" : 33,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2017-18",
+		"sede" : "Arecibo",
+		"cantidad" : 168,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2017-18",
+		"sede" : "Arecibo",
+		"cantidad" : 87,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2017-18",
+		"sede" : "Arecibo",
+		"cantidad" : 5,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2017-18",
+		"sede" : "Bayamón",
+		"cantidad" : 155,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2017-18",
+		"sede" : "Bayamón",
+		"cantidad" : 40,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2017-18",
+		"sede" : "Bayamón",
+		"cantidad" : 52,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2017-18",
+		"sede" : "Carolina",
+		"cantidad" : 90,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2017-18",
+		"sede" : "Carolina",
+		"cantidad" : 109,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2017-18",
+		"sede" : "Carolina",
+		"cantidad" : 16,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2017-18",
+		"sede" : "Cayey",
+		"cantidad" : 125,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2017-18",
+		"sede" : "Cayey",
+		"cantidad" : 22,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2017-18",
+		"sede" : "Cayey",
+		"cantidad" : 44,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2017-18",
+		"sede" : "Humacao",
+		"cantidad" : 187,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2017-18",
+		"sede" : "Humacao",
+		"cantidad" : 101,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2017-18",
+		"sede" : "Humacao",
+		"cantidad" : 10,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2017-18",
+		"sede" : "Ponce",
+		"cantidad" : 84,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2017-18",
+		"sede" : "Ponce",
+		"cantidad" : 119,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2017-18",
+		"sede" : "Ponce",
+		"cantidad" : 7,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2017-18",
+		"sede" : "Utuado",
+		"cantidad" : 57,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2017-18",
+		"sede" : "Utuado",
+		"cantidad" : 12,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2017-18",
+		"sede" : "Utuado",
+		"cantidad" : 17,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2018-19",
+		"sede" : "Mayagüez",
+		"cantidad" : 579,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2018-19",
+		"sede" : "Mayagüez",
+		"cantidad" : 36,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{
+		"anio_fiscal" : "2018-19",
+		"sede" : "Mayagüez",
+		"cantidad" : 40,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2018-19",
+		"sede" : "Río Piedras",
+		"cantidad" : 601,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2018-19",
+		"sede" : "Río Piedras",
+		"cantidad" : 335,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2018-19",
+		"sede" : "Río Piedras",
+		"cantidad" : 181,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2018-19",
+		"sede" : "Ciencias Médicas",
+		"cantidad" : 0,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2018-19",
+		"sede" : "Ciencias Médicas",
+		"cantidad" : 0,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2018-19",
+		"sede" : "Ciencias Médicas",
+		"cantidad" : 0,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2018-19",
+		"sede" : "Aguadilla",
+		"cantidad" : 102,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2018-19",
+		"sede" : "Aguadilla",
+		"cantidad" : 58,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2018-19",
+		"sede" : "Aguadilla",
+		"cantidad" : 24,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2018-19",
+		"sede" : "Arecibo",
+		"cantidad" : 163,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2018-19",
+		"sede" : "Arecibo",
+		"cantidad" : 81,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2018-19",
+		"sede" : "Arecibo",
+		"cantidad" : 6,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2018-19",
+		"sede" : "Bayamón",
+		"cantidad" : 136,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2018-19",
+		"sede" : "Bayamón",
+		"cantidad" : 37,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2018-19",
+		"sede" : "Bayamón",
+		"cantidad" : 38,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2018-19",
+		"sede" : "Carolina",
+		"cantidad" : 85,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2018-19",
+		"sede" : "Carolina",
+		"cantidad" : 94,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2018-19",
+		"sede" : "Carolina",
+		"cantidad" : 31,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2018-19",
+		"sede" : "Cayey",
+		"cantidad" : 115,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2018-19",
+		"sede" : "Cayey",
+		"cantidad" : 10,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2018-19",
+		"sede" : "Cayey",
+		"cantidad" : 38,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2018-19",
+		"sede" : "Humacao",
+		"cantidad" : 178,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2018-19",
+		"sede" : "Humacao",
+		"cantidad" : 106,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2018-19",
+		"sede" : "Humacao",
+		"cantidad" : 16,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2018-19",
+		"sede" : "Ponce",
+		"cantidad" : 77,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2018-19",
+		"sede" : "Ponce",
+		"cantidad" : 104,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2018-19",
+		"sede" : "Ponce",
+		"cantidad" : 9,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2018-19",
+		"sede" : "Utuado",
+		"cantidad" : 48,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2018-19",
+		"sede" : "Utuado",
+		"cantidad" : 7,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2018-19",
+		"sede" : "Utuado",
+		"cantidad" : 14,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2019-20",
+		"sede" : "Mayagüez",
+		"cantidad" : 530,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2019-20",
+		"sede" : "Mayagüez",
+		"cantidad" : 33,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{
+		"anio_fiscal" : "2019-20",
+		"sede" : "Mayagüez",
+		"cantidad" : 64,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2019-20",
+		"sede" : "Río Piedras",
+		"cantidad" : 558,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2019-20",
+		"sede" : "Río Piedras",
+		"cantidad" : 341,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2019-20",
+		"sede" : "Río Piedras",
+		"cantidad" : 165,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2019-20",
+		"cantidad" : 326,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2019-20",
+		"sede" : "Ciencias Médicas",
+		"cantidad" : 431,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2019-20",
+		"sede" : "Ciencias Médicas",
+		"cantidad" : 234,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2019-20",
+		"sede" : "Aguadilla",
+		"cantidad" : 93,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2019-20",
+		"sede" : "Aguadilla",
+		"cantidad" : 62,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2019-20",
+		"sede" : "Aguadilla",
+		"cantidad" : 21,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2019-20",
+		"sede" : "Arecibo",
+		"cantidad" : 155,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2019-20",
+		"sede" : "Arecibo",
+		"cantidad" : 66,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2019-20",
+		"sede" : "Arecibo",
+		"cantidad" : 15,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2019-20",
+		"sede" : "Bayamón",
+		"cantidad" : 122,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2019-20",
+		"sede" : "Bayamón",
+		"cantidad" : 52,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2019-20",
+		"sede" : "Bayamón",
+		"cantidad" : 49,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2019-20",
+		"sede" : "Carolina",
+		"cantidad" : 80,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2019-20",
+		"sede" : "Carolina",
+		"cantidad" : 79,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2019-20",
+		"sede" : "Carolina",
+		"cantidad" : 39,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2019-20",
+		"sede" : "Cayey",
+		"cantidad" : 109,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2019-20",
+		"sede" : "Cayey",
+		"cantidad" : 24,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2019-20",
+		"sede" : "Cayey",
+		"cantidad" : 47,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2019-20",
+		"sede" : "Humacao",
+		"cantidad" : 164,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2019-20",
+		"sede" : "Humacao",
+		"cantidad" : 88,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2019-20",
+		"sede" : "Humacao",
+		"cantidad" : 30,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2019-20",
+		"sede" : "Ponce",
+		"cantidad" : 72,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2019-20",
+		"sede" : "Ponce",
+		"cantidad" : 97,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2019-20",
+		"sede" : "Ponce",
+		"cantidad" : 11,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2019-20",
+		"sede" : "Utuado",
+		"cantidad" : 33,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2019-20",
+		"sede" : "Utuado",
+		"cantidad" : 12,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2019-20",
+		"sede" : "Utuado",
+		"cantidad" : 26,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2020-21",
+		"sede" : "Mayagüez",
+		"cantidad" : 504,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2020-21",
+		"sede" : "Mayagüez",
+		"cantidad" : 32,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{
+		"anio_fiscal" : "2020-21",
+		"sede" : "Mayagüez",
+		"cantidad" : 67,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2020-21",
+		"sede" : "Río Piedras",
+		"cantidad" : 536,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2020-21",
+		"sede" : "Río Piedras",
+		"cantidad" : 313,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2020-21",
+		"sede" : "Río Piedras",
+		"cantidad" : 198,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2020-21",
+		"sede" : "Ciencias Médicas",
+		"cantidad" : 652,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2020-21",
+		"sede" : "Ciencias Médicas",
+		"cantidad" : 398,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2020-21",
+		"sede" : "Ciencias Médicas",
+		"cantidad" : 192,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2020-21",
+		"sede" : "Aguadilla",
+		"cantidad" : 85,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2020-21",
+		"sede" : "Aguadilla",
+		"cantidad" : 49,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2020-21",
+		"sede" : "Aguadilla",
+		"cantidad" : 25,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2020-21",
+		"sede" : "Arecibo",
+		"cantidad" : 151,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2020-21",
+		"sede" : "Arecibo",
+		"cantidad" : 79,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2020-21",
+		"sede" : "Arecibo",
+		"cantidad" : 13,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2020-21",
+		"sede" : "Bayamón",
+		"cantidad" : 121,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2020-21",
+		"sede" : "Bayamón",
+		"cantidad" : 52,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2020-21",
+		"sede" : "Bayamón",
+		"cantidad" : 50,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2020-21",
+		"sede" : "Carolina",
+		"cantidad" : 80,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2020-21",
+		"sede" : "Carolina",
+		"cantidad" : 89,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2020-21",
+		"sede" : "Carolina",
+		"cantidad" : 40,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2020-21",
+		"sede" : "Cayey",
+		"cantidad" : 106,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2020-21",
+		"sede" : "Cayey",
+		"cantidad" : 20,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2020-21",
+		"sede" : "Cayey",
+		"cantidad" : 43,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2020-21",
+		"sede" : "Humacao",
+		"cantidad" : 157,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2020-21",
+		"sede" : "Humacao",
+		"cantidad" : 72,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2020-21",
+		"sede" : "Humacao",
+		"cantidad" : 35,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2020-21",
+		"sede" : "Ponce",
+		"cantidad" : 69,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2020-21",
+		"sede" : "Ponce",
+		"cantidad" : 87,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2020-21",
+		"sede" : "Ponce",
+		"cantidad" : 14,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2020-21",
+		"sede" : "Utuado",
+		"cantidad" : 32,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2020-21",
+		"sede" : "Utuado",
+		"cantidad" : 7,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2020-21",
+		"sede" : "Utuado",
+		"cantidad" : 24,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2021-22",
+		"sede" : "Mayagüez",
+		"cantidad" : 504,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2021-22",
+		"sede" : "Mayagüez",
+		"cantidad" : 44,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{
+		"anio_fiscal" : "2021-22",
+		"sede" : "Mayagüez",
+		"cantidad" : 83,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2021-22",
+		"sede" : "Río Piedras",
+		"cantidad" : 517,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2021-22",
+		"sede" : "Río Piedras",
+		"cantidad" : 284,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2021-22",
+		"sede" : "Río Piedras",
+		"cantidad" : 227,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2021-22",
+		"sede" : "Ciencias Médicas",
+		"cantidad" : 642,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2021-22",
+		"sede" : "Ciencias Médicas",
+		"cantidad" : 392,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2021-22",
+		"sede" : "Ciencias Médicas",
+		"cantidad" : 185,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2021-22",
+		"sede" : "Aguadilla",
+		"cantidad" : 85,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2021-22",
+		"sede" : "Aguadilla",
+		"cantidad" : 37,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2021-22",
+		"sede" : "Aguadilla",
+		"cantidad" : 24,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2021-22",
+		"sede" : "Arecibo",
+		"cantidad" : 145,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2021-22",
+		"sede" : "Arecibo",
+		"cantidad" : 67,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2021-22",
+		"sede" : "Arecibo",
+		"cantidad" : 22,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2021-22",
+		"sede" : "Bayamón",
+		"cantidad" : 118,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2021-22",
+		"sede" : "Bayamón",
+		"cantidad" : 49,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2021-22",
+		"sede" : "Bayamón",
+		"cantidad" : 44,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2021-22",
+		"sede" : "Carolina",
+		"cantidad" : 75,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2021-22",
+		"sede" : "Carolina",
+		"cantidad" : 68,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2021-22",
+		"sede" : "Carolina",
+		"cantidad" : 39,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2021-22",
+		"sede" : "Cayey",
+		"cantidad" : 102,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2021-22",
+		"sede" : "Cayey",
+		"cantidad" : 16,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2021-22",
+		"sede" : "Cayey",
+		"cantidad" : 38,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2021-22",
+		"sede" : "Humacao",
+		"cantidad" : 153,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2021-22",
+		"sede" : "Humacao",
+		"cantidad" : 86,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2021-22",
+		"sede" : "Humacao",
+		"cantidad" : 33,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2021-22",
+		"sede" : "Ponce",
+		"cantidad" : 64,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2021-22",
+		"sede" : "Ponce",
+		"cantidad" : 79,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2021-22",
+		"sede" : "Ponce",
+		"cantidad" : 31,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	},
+	{
+		"anio_fiscal" : "2021-22",
+		"sede" : "Utuado",
+		"cantidad" : 30,
+		"tipo_profesor" : "Plazas Regulares"
+	},
+	{
+		"anio_fiscal" : "2021-22",
+		"sede" : "Utuado",
+		"cantidad" : 10,
+		"tipo_profesor" : "Contrato a Tiempo Parcial"
+	},
+	{	
+		"anio_fiscal" : "2021-22",
+		"sede" : "Utuado",
+		"cantidad" : 23,
+		"tipo_profesor" : "Contrato a Tiempo Completo"
+	}
+]

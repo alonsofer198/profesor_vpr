@@ -6,20 +6,11 @@
 					<div class="col-11 col-md-12 resumen align-self-center">
 						<div class="row candidato-wrapper justify-content-center">
 							<div class="col-12 col-md-8 text-center">
-								<h2 class="mt-3 titile-graph">Cantidad de denuncias por violencia de género</h2>
-								<div class="mb-3">Explora la cantidad de denuncias por violencia de género atendidas por la Policía desde el 2016 hasta el 30 de abril de 2022.</div>
+								<h2 class="mt-3 titile-graph">UTUADO</h2>
+								<div class="mb-3 titile-graph1">Cantidad de Profesores por Año Fiscal</div>
+								<div class="mb-3 titile-graph2">2009-2010 al 2021-2022</div>
 							</div>
-							<div class="col-11 text-center">
-								<b-dropdown id="dropdown-dropup" :text="yearSelected" class="mt-2" variant="dark">
-									<b-dropdown-item @click="filterYear('2016')" href="#">2016</b-dropdown-item>
-									<b-dropdown-item @click="filterYear('2017')" href="#">2017</b-dropdown-item>
-									<b-dropdown-item @click="filterYear('2018')" href="#">2018</b-dropdown-item>
-									<b-dropdown-item @click="filterYear('2019')" href="#">2019</b-dropdown-item>
-									<b-dropdown-item @click="filterYear('2020')" href="#">2020</b-dropdown-item>
-									<b-dropdown-item @click="filterYear('2021')" href="#">2021</b-dropdown-item>
-									<b-dropdown-item @click="filterYear('2022')" href="#">2022</b-dropdown-item>
-								</b-dropdown>
-							</div>
+							
 							
 						</div>						
 					</div>
@@ -42,7 +33,7 @@
 						</div>
 					</div>
 					<div class="text-center fuente pt-3 pb-3">
-						Nota: cantidad de incidentes por violencia de género atendidos por la Policía desde el 2016 hasta el 30 de abril de 2022. Fuente: Policía de Puerto Rico.
+						Fuente: Universidad de Puerto Rico
 					</div>
 				</div>
 

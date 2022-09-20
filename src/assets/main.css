@@ -120,12 +120,25 @@ span.tag a {
 	max-width: 1620px;
 	background-color: #f3f3f3;
 }
-.map-titulo h2 {
-	font-size: 21px;
+.map-titulo{
+	background: #222222;	
+	width: 100%;
+} h2 {
+	/*font-size: 21px;
 	font-weight: 700;
 	font-family: craft_gothicregular,Helvetica Neue,Helvetica,Arial,sans-serif;
-	max-width: 580px;
+	max-width: 580px;*/
 	margin: 0 auto;
+	font-family: 'Helvetica Neue, Arial, sans-serif';
+	font-style: normal;
+	font-weight: 300;
+	font-size: 18px;
+	line-height: 22px;
+	/* identical to box height */
+
+	text-align: center;
+	color: #FFFFFF;
+	
 
 }
 
@@ -300,10 +313,10 @@ span.tag a {
 
 .interactive-container .btn-secondary {
 	display: inline-block;
-	background-color: #008A46 !important;
+	background-color: #FFFFFF !important;
 	border-radius: 5px;
 	height: 36px;
-	color: #fff;
+	color: #000000;
 	font-family: Arial;
 	font-size: 12px;
 	font-weight: 700;
@@ -311,7 +324,7 @@ span.tag a {
 	line-height: 14px;
 	text-align: center;
 	cursor: pointer;
-	border: 1px solid #008A46;
+	border: 1px solid #FFFFFF;
 }
 
 .col-bar {
@@ -451,7 +464,7 @@ span.tag a {
 	position: relative;
 	width: 100%;
 	max-width: 1520px;
-	margin: 0 auto;
+	margin: -126px auto;
 	overflow: hidden;
 }
 
@@ -672,7 +685,7 @@ path.municipio-path {
 
 .nav-tabs .nav-item {
 	min-width: 150px;
-  background: #146eb0;
+  background: #1663A3;
 }
 
 @media (max-width: 575.98px) {
@@ -709,9 +722,10 @@ path.municipio-path {
 
 .nav-tabs .nav-link.active {
 	color: #ffffff;
-	background-color: #3d3d3c;
+	background-color: #2C2C2C;
 	border-color: #6c757d #6c757d #6c757d;
 	border-right: solid 1px #fff;
+	font-size: 13px;
 }
 
 .nav-tabs .nav-link.active:after {
@@ -740,7 +754,23 @@ path.municipio-path {
 	font-size: 21px;
 	font-weight: 700;
 	font-family: Arial, Helvetica, sans-serif;
-	color: #333;
+	color: #008A46;
+	
+}
+
+.candidato-wrapper .titile-graph1 {
+	font-size: 21px;
+	font-weight: 700;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #646464;
+	
+}
+
+.candidato-wrapper .titile-graph2 {
+	font-size: 16px;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #646464;
+	margin-top: -20px;
 	
 }
 

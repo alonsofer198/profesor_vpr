@@ -4,11 +4,11 @@
 			<div class="col-11 col-md-6 pt-3 text-center map-titulo">
 				<h2 class="mb-3">
 					Explorar los datos
-				</h2>
-				<b-dropdown id="dropdown-dropup" :text="areaName" class="d-inline m-2 btn-blue">
+					<b-dropdown id="dropdown-dropup" :text="areaName" class="d-inline m-2 btn-blue">
 					<b-dropdown-item v-for="area in allAreas" :key="area.id" @click="showMunicipio(area.id)" href="#">{{ area.area }}</b-dropdown-item>
 				</b-dropdown>
 				<b-button v-if="allByArea.length > 0" @click="resetMap()" class="d-inline m-2"><font-awesome-icon icon="times" /></b-button>
+				</h2>
 			</div>
 		</div>
 
@@ -42,22 +42,8 @@
 				<div>Femenino: <b>{{numeral(currentTooltip.femenino).format('0,0')}}</b></div>
 				<div v-if="currentTooltip.genero_desconocido > 0">Género desconocido:  <b>{{numeral(currentTooltip.genero_desconocido).format('0,0')}}</b></div>
 			</div>
-			<div>
-				<div>
-					<ul class="legend-map">
-						<li>+1 <span style="background: #afafaf;" class="legend-square"></span></li>
-						<li>+1,000 <span style="background: #e7bdbb;" class="legend-square"></span></li>
-						<li>+2,000 <span style="background: #008A468F;" class="legend-square"></span></li>
-						<li>+3,000 <span style="background: #d9827f;" class="legend-square"></span></li>
-						<li>+4,000 <span style="background: #db4742" class="legend-square"></span></li>
-						<li>+5,000 <span style="background: #930702" class="legend-square"></span></li>
-					</ul>
-				</div>
-			</div>
 		</div>
-		<div class="text-center fuente pt-3">
-			Nota: cantidad de incidentes por violencia de género atendidos por la Policía desde el 2016 hasta el 30 de abril de 2022. Fuente: Policía de Puerto Rico
-		</div>
+		
 	</div>
 </template>
 
