@@ -2,8 +2,11 @@
   <div class="container">
     <div class="row justify-content-center">
       <div class="col-12 mt-5 p-0">
+        <DestacadosHome />
+      </div>
+      <div class="col-12 mt-5 p-0">
         <SummaryHome />
-        </div>
+      </div>
       <div class="col-12 mt-5 p-0">
         <div class="map-block" ref="widthContainer">
           <MapaPrincipal :width-container="widthContainer" v-if="widthContainer > 0" />
@@ -38,12 +41,14 @@
 import MapaPrincipal from '@/components/MapaPrincipal.vue'
 import SummaryHome from '@/components/SummaryHome.vue'
 import IframeResizer from '@/utils/iframe-resizer'
+import DestacadosHome from '@/components/DestacadosHome.vue'
 
 export default {
   name: 'Home',
   components: {
     MapaPrincipal,
-    SummaryHome
+    SummaryHome,
+    DestacadosHome
   },
   mounted () {
     IframeResizer.create()
