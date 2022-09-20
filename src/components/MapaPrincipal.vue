@@ -1,18 +1,17 @@
 <template>
 	<div class="interactive-container">
 		<div class="row justify-content-center">
-			
-				<div class="col-12 col-md-6 pt-3 text-center">
-					<div class="map-titulo">
-						<h2 class="mb-3">
+			<div class="col-12 col-md-6 pt-3 text-center">
+				<div class="map-titulo">
+					<h2 class="mb-3">
 							Explorar los datos
 							<b-dropdown id="dropdown-dropup" :text="areaName" class="d-inline m-2 btn-blue">
 							<b-dropdown-item v-for="area in allAreas" :key="area.id" @click="showMunicipio(area.id)" href="#">{{ area.area }}</b-dropdown-item>
 						</b-dropdown>
 						<b-button v-if="allByArea.length > 0" @click="resetMap()" class="d-inline m-2"><font-awesome-icon icon="times" /></b-button>
-						</h2>
-					</div>
+					</h2>
 				</div>
+			</div>
 			
 		</div>
 
@@ -64,7 +63,7 @@
       return {
         openMenu: false,
         width: 720,
-        height: 560,
+        height: 420,
         initCenter: [],
         center: [],
         initScale: 2500,
