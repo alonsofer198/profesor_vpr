@@ -9,9 +9,11 @@
 								<h2 class="mt-3 titile-cifra">Cifras Destacadas:</h2>
 								<p>23% <span class="incidentes-badge">reducción de profesores regulares en la UPR mediante la congelación o eliminación de 741 plazas docentes desde 2010 hasta el 2022</span></p>
 								
-								<p>23% <span class="incidentes-badge">reducción de profesores regulares en la UPR mediante la congelación o eliminación de 741 plazas docentes desde 2010 hasta el 2022</span></p>
+								<p>30% <span class="incidentes-badge">aumento en la contratación de profesores a tiempo parcial o completo en la UPR desde 2010 hasta el 2022.</span></p>
 								
-								<p>23% <span class="incidentes-badge">reducción de profesores regulares en la UPR mediante la congelación o eliminación de 741 plazas docentes desde 2010 hasta el 2022</span></p>
+								<p><span class="incidentes-badge">Entre el año académico 2010-2011 y el 2021-2022, la UPR contrató 389 profesores a tiempo completo y 173 a tiempo parcial para sus once recintos y unidades.</span></p>
+
+								<p><span class="incidentes-badge">Para el 2010, la UPR contaba con 3,176 docentes regulares, pero el año académico 2021-2022 cerró con 2,435. Mientras, de 959 docenes por contrato a tiempo parcial y 360 a tiempo completo en el 2010, la contratación saltó a 1,132 y 749, respectivamente.  </span></p>
                             
 							</div>                
 							</div>
