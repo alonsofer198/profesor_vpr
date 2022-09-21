@@ -5,6 +5,9 @@
         <DestacadosHome />
       </div>
       <div class="col-12 mt-5 p-0">
+        <DestacadoParrafo />
+      </div>
+      <div class="col-12 mt-5 p-0">
         <SummaryHome />
       </div>
       <div class="col-12 mt-5 p-0">
@@ -42,14 +45,16 @@ import MapaPrincipal from '@/components/MapaPrincipal.vue'
 import SummaryHome from '@/components/SummaryHome.vue'
 import IframeResizer from '@/utils/iframe-resizer'
 import DestacadosHome from '@/components/DestacadosHome.vue'
+import DestacadoParrafo from '../components/DestacadoParrafo.vue'
 
 export default {
   name: 'Home',
   components: {
     MapaPrincipal,
     SummaryHome,
-    DestacadosHome
-  },
+    DestacadosHome,
+    DestacadoParrafo
+},
   mounted () {
     IframeResizer.create()
     
