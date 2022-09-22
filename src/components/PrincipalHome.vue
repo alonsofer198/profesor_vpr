@@ -1,23 +1,27 @@
 <template>
-	<div class="top-summary summary-block pt-3 pb-3">
-		<div class="row candidato-wrapper justify-content-center">
-			<div class="col-3">
-				<h2 class="mt-3 titile-cifra">23%</h2>
+	<div class="top-summary candidato-wrapper summary-block pt-3 pb-3">
+		<div class="row justify-content-center">
+			<div class="col-6">
+				<div class="row">
+					<div class="col-3 text-right">
+						<h2 class="mt-3 titile-cifra">23%</h2>
+					</div>
+					<div class="col-9">
+						<p class="porcentajetext">- reducción de profesores regulares en la UPR mediante la congelación o eliminación de 741 plazas docentes desde 2010 hasta el 2022</p>
+					</div> 
+				</div>				
 			</div>
-			
-			<div class="col-3">
-				<p class="porcentajetext">- reducción de profesores regulares en la UPR mediante la congelación o eliminación de 741 plazas docentes desde 2010 hasta el 2022</p>
-			</div> 
-
-			<div class="col-3">
-				<h2 class="mt-3 titile-cifra">30%</h2>
+			<div class="col-6">
+				<div class="row">
+					<div class="col-3 text-right">
+						<h2 class="mt-3 titile-cifra">30%</h2>
+					</div>
+					<div class="col-9">
+						<p class="porcentajetext">- aumento en la contratación de profesores a tiempo parcial o completo en la UPR desde 2010 hasta el 2022.</p>
+					</div> 
+				</div>				
 			</div>
-			
-			<div class="col-3">
-				<p class="porcentajetext">- aumento en la contratación de profesores a tiempo parcial o completo en la UPR desde 2010 hasta el 2022.</p>
-			</div> 
-		</div>
-	
+		</div>	
 	</div>
 
 

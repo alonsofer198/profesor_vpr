@@ -754,12 +754,10 @@ path.municipio-path {
 
 .candidato-wrapper .titile-cifra {
 	margin: 15px 0;
-    font-family: craftgothic_black;
-    font-weight: 400;
-    font-size: 40px;
-    color: #1c1c1c;
-    text-align: start;
-    margin-left: 194px;
+	font-family: craftgothic_black;
+	font-weight: 400;
+	font-size: 40px;
+	color: #1c1c1c;
 }
 
 .candidato-wrapper .titile-graph1 {
@@ -772,9 +770,9 @@ path.municipio-path {
 
 .candidato-wrapper .titile-graph2 {
 	font-size: 20px;
-    font-family: Arial, Helvetica, sans-serif;
-    color: #646464;
-    font-weight: bold;	
+	font-family: Arial, Helvetica, sans-serif;
+	color: #646464;
+	font-weight: bold;	
 }
 
 .candidato-wrapper .incidente-destacado {
@@ -783,14 +781,9 @@ path.municipio-path {
     background-color: #db4742;
 }
 
-.candidato-wrapper .destacados{
-	text-align: start;
-}
-
 .candidato-wrapper .porcentajetext{
 	font-size: 15px;
-    font-weight: lighter;
-	margin-left: -77px;
+	font-weight: lighter;
 	text-align:justify ;
 }
 
