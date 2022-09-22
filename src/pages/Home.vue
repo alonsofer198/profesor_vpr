@@ -1,8 +1,9 @@
 <template>  
   <div class="container">
     <div class="row justify-content-center">
+      
       <div class="col-12 mt-5 p-0">
-        <DestacadosHome />
+        <PrincipalHome />
       </div>
       <div class="col-12 mt-5 p-0">
         <DestacadoParrafo />
@@ -44,16 +45,16 @@
 import MapaPrincipal from '@/components/MapaPrincipal.vue'
 import SummaryHome from '@/components/SummaryHome.vue'
 import IframeResizer from '@/utils/iframe-resizer'
-import DestacadosHome from '@/components/DestacadosHome.vue'
-import DestacadoParrafo from '../components/DestacadoParrafo.vue'
+import DestacadoParrafo from '@/components/DestacadoParrafo.vue'
+import PrincipalHome from '@/components/PrincipalHome.vue'
 
 export default {
   name: 'Home',
   components: {
     MapaPrincipal,
     SummaryHome,
-    DestacadosHome,
-    DestacadoParrafo
+    DestacadoParrafo,
+    PrincipalHome
 },
   mounted () {
     IframeResizer.create()

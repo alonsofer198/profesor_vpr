@@ -756,10 +756,10 @@ path.municipio-path {
 	margin: 15px 0;
     font-family: craftgothic_black;
     font-weight: 400;
-    font-size: 25px;
+    font-size: 40px;
     color: #1c1c1c;
     text-align: start;
-    margin-left: 97px;
+    margin-left: 194px;
 }
 
 .candidato-wrapper .titile-graph1 {
@@ -790,8 +790,8 @@ path.municipio-path {
 .candidato-wrapper .porcentajetext{
 	font-size: 15px;
     font-weight: lighter;
-    margin-top: -34px;
-    padding-left: 155px;
+	margin-left: -77px;
+	text-align:justify ;
 }
 
 .tab1{
