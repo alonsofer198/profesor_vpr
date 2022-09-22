@@ -4,12 +4,7 @@
       
       <div class="col-12 mt-5 p-0">
         <PrincipalHome />
-      </div>
-      <div class="col-12 mt-5 p-0">
         <DestacadoParrafo />
-      </div>
-      <div class="col-12 mt-5 p-0">
-        <SummaryHome />
       </div>
       <div class="col-12 mt-5 p-0">
         <div class="map-block" ref="widthContainer">

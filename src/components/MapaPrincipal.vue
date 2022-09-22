@@ -1,7 +1,7 @@
 <template>
 	<div class="interactive-container">
 		<div class="row justify-content-center">
-			<div class="col-12 col-md-6 pt-3 text-center">
+			<div class="col-12 col-md-12">
 				<div class="map-titulo">
 					<h2 class="mb-3">
 							Explorar los datos

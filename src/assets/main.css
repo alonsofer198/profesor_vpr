@@ -788,8 +788,10 @@ path.municipio-path {
 }
 
 .tab1{
-	font-size: 17px;
-	text-align: center;
+	font-size: 15px;
+	text-align: justify;
+	margin-left: -247px;
+    padding-left: 475px;
 }
 
 .candidato-wrapper p{
