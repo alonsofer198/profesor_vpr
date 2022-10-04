@@ -745,14 +745,14 @@ path.municipio-path {
 }
 
 .candidato-wrapper .titile-graph {
-	font-size: 21px;
+	font-size: 18px;
 	font-weight: 700;
 	font-family: Arial, Helvetica, sans-serif;
 	color: #008A46;
 	
 }
 
-.titile-cifra {
+.candidato-wrapper .titile-cifra {
 	margin: 15px 0;
 	font-family: craftgothic_black;
 	font-weight: 400;
@@ -760,7 +760,7 @@ path.municipio-path {
 	color: #1c1c1c;
 
 	@media (max-width:560px){
-		font-size:18px;
+		font-size:15px;
 	}
 }
 
@@ -773,7 +773,7 @@ path.municipio-path {
 }
 
 .candidato-wrapper .titile-graph2 {
-	font-size: 20px;
+	font-size: 16px;
 	font-family: Arial, Helvetica, sans-serif;
 	color: #646464;
 	font-weight: bold;	
@@ -785,10 +785,13 @@ path.municipio-path {
     background-color: #db4742;
 }
 
-.porcentajetext{
+.candidato-wrapper .porcentajetext{
 	font-size: 15px;
 	font-weight: lighter;
-	text-align:justify ;
+
+	@media (max-width:560px){
+		font-size:15px;
+	}
 }
 
 .tab1{
@@ -797,8 +800,7 @@ path.municipio-path {
 }
 
 .candidato-wrapper p{
-	font-weight:bold;
-	font-size: 18px;
+	font-size: 15px;
 }
 
 .lista-regiones {

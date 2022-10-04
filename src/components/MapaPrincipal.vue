@@ -3,7 +3,7 @@
 		<div class="row justify-content-center">
 			<div class="col-12 col-md-12">
 				<div class="map-titulo">
-					<h2 class="mb-3">
+					<h2>
 							Explorar los datos
 							<b-dropdown id="dropdown-dropup" :text="areaName" class="d-inline m-2 btn-blue">
 							<b-dropdown-item v-for="area in allAreas" :key="area.id" @click="showMunicipio(area.id)" href="#">{{ area.area }}</b-dropdown-item>

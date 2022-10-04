@@ -4,7 +4,7 @@
 			<div class="col-12 map-navigation">
 				<div>
 					<b-tabs content-class="mt-3">
-						<b-tab title="First" active><p class="tab1">Entre el año académico 2010-2011 y el 2021-2022, la UPR contrató 389 profesores a tiempo completo y 173 a tiempo parcial para sus once recintos y unidades.</p>
+						<b-tab title="First" active><p class="fuente">Entre el año académico 2010-2011 y el 2021-2022, la UPR contrató 389 profesores a tiempo completo y 173 a tiempo parcial para sus once recintos y unidades.</p>
 							<div class="col-12 col-md-12 position-relative">
 								<div class="d-block d-md-none arrow-next">
 									<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16">
@@ -26,7 +26,7 @@
 					<div class="text-center fuente pt-3 pb-3">
 						Fuente: Universidad de Puerto Rico
 					</div></b-tab>
-						<b-tab title="Second"><p class="tab1">Para el 2010, la UPR contaba con 3,176 docentes regulares, pero el año académico 2021-2022 cerró con 2,435. Mientras, de 959 docenes por contrato a tiempo parcial y 360 a tiempo completo en el 2010, la contratación saltó a 1,132 y 749, respectivamente.</p>
+						<b-tab title="Second"><p class="fuente">Para el 2010, la UPR contaba con 3,176 docentes regulares, pero el año académico 2021-2022 cerró con 2,435. Mientras, de 959 docenes por contrato a tiempo parcial y 360 a tiempo completo en el 2010, la contratación saltó a 1,132 y 749, respectivamente.</p>
 							<div class="col-12 col-md-12 position-relative">
 						<div class="d-block d-md-none arrow-next">
 							<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16">

@@ -2,7 +2,7 @@
   <div class="container">
     <div class="row justify-content-center">
       
-      <div class="col-12 mt-5 p-0">
+      <div class="col-12 p-0">
         <PrincipalHome />
         <DestacadoParrafo />
       </div>

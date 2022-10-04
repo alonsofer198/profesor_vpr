@@ -6,9 +6,8 @@
 					<div class="col-11 col-md-12 resumen align-self-center">
 						<div class="row candidato-wrapper justify-content-center">
 							<div class="col-12 col-md-8 text-center">
-								<h2 class="mt-3 titile-graph">UTUADO</h2>
-								<div class="mb-3 titile-graph1">Cantidad de Profesores por Año Fiscal</div>
-								<div class="mb-3 titile-graph2">2009-2010 al 2021-2022</div>
+								<h2 class="mt-3 titile-graph">Cantidad de profesores en UTUADO</h2>
+								<div class="mb-3 titile-graph2">Año Fiscal del 2009-2010 al 2021-2022</div>
 							</div>
 							
 							
