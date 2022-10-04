@@ -752,12 +752,16 @@ path.municipio-path {
 	
 }
 
-.candidato-wrapper .titile-cifra {
+.titile-cifra {
 	margin: 15px 0;
 	font-family: craftgothic_black;
 	font-weight: 400;
 	font-size: 40px;
 	color: #1c1c1c;
+
+	@media (max-width:560px){
+		font-size:18px;
+	}
 }
 
 .candidato-wrapper .titile-graph1 {
@@ -781,7 +785,7 @@ path.municipio-path {
     background-color: #db4742;
 }
 
-.candidato-wrapper .porcentajetext{
+.porcentajetext{
 	font-size: 15px;
 	font-weight: lighter;
 	text-align:justify ;
@@ -789,9 +793,7 @@ path.municipio-path {
 
 .tab1{
 	font-size: 15px;
-	text-align: justify;
-	margin-left: -247px;
-    padding-left: 475px;
+	text-align: center;
 }
 
 .candidato-wrapper p{
