@@ -26,28 +26,7 @@
 					<div class="text-center fuente pt-3 pb-3">
 						Fuente: Universidad de Puerto Rico
 					</div></b-tab>
-						<b-tab title="Second"><p class="fuente">Para el 2010, la UPR contaba con 3,176 docentes regulares, pero el año académico 2021-2022 cerró con 2,435. Mientras, de 959 docenes por contrato a tiempo parcial y 360 a tiempo completo en el 2010, la contratación saltó a 1,132 y 749, respectivamente.</p>
-							<div class="col-12 col-md-12 position-relative">
-						<div class="d-block d-md-none arrow-next">
-							<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16">
-								<path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8z"/>
-							</svg>
-						</div>
-						<div class="bar-col-container bar-home-summary" v-if="ultimo_anio.length > 0">
-							<div class="col-bar" v-for="m in ultimo_anio" :key="`${m.area}_${yearSelected}`">
-								<div class="col-auto bar-container" v-if="m && m.incidentes">
-									<div class="label" :style="`top: ${calcTopAnio('incidentes', m.incidentes)}`">{{numeral(m.incidentes).format('0,0')}}</div>
-									<div class="bar-percent">
-										<div class="percent-incidentes text-center" :style="`background-color:#db4742; height: ${calcPercentAnio('incidentes', m.incidentes)}`"></div>
-									</div>
-									<span :style="`top: ${calcTopRegion('incidentes', m.incidentes)}`" class="area-name">{{ m.area }}</span>
-								</div>
-							</div>
-						</div>
-			</div>
-					<div class="text-center fuente pt-3 pb-3">
-						Fuente: Universidad de Puerto Rico
-					</div></b-tab>
+						
 					</b-tabs>
 				</div>
 			</div>
