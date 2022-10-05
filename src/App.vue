@@ -11,7 +11,7 @@
 export default {
   name: 'App',
   created() {
-    this.$store.dispatch('incidentes/getAllIncidentes')
+    this.$store.dispatch('incidentes/getData')
   }
 }
 </script>
