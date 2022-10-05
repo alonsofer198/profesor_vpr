@@ -170,14 +170,15 @@ h2 {
 }
 
 .bar-col-container {
-	position: relative;
-	display: flex;
-	align-items: center;
-	padding: 35px 0 0 0;
-	border-bottom: solid 1px #dee2e6;
-	margin: 0 auto;
-	max-width: 730px;
-	justify-content: flex-start;
+    position: relative;
+    display: flex;
+    align-items: center;
+    padding: 30px 0 0 0;
+    border-bottom: solid 1px #dee2e6;
+    margin: 10px auto;
+    max-width: 730px;
+    justify-content: flex-start;
+    font-size: 11px;
 }
 
 .bar-col-container-2 {
