@@ -3,47 +3,29 @@
     <div class="row justify-content-center">
       <div class="col-12">
         <PrincipalHome />
+      </div>
+      <div class="col-12">
+        <DestacadoHome />
+      </div>
+      <div class="col-12">
         <DestacadoParrafo />
       </div>
-      <div class="col-12 mt-5 p-0">
-        <div class="map-block" ref="widthContainer">
 
-        </div>
-      </div>
-      <div class="col-12 p-0" id="container_graphs_tabs">
-        <b-tabs content-class="">
-          <b-tab title="Plazas Regulares" active>
-            <div class="summary-block">
-              <SummaryHome />
-            </div>           
-          </b-tab>
-          <b-tab title="Contratos a Tiempo Parcial">
-            <div class="summary-block container">
-              <SummaryHome />
-            </div>            
-          </b-tab>
-          <b-tab title="Contratos a Tiempo Completo">
-            <div class="summary-block container">
-              <SummaryHome />
-            </div>
-          </b-tab>
-        </b-tabs>
-      </div>
     </div>
   </div>
 </template>
 
 <script>
 
-import SummaryHome from '@/components/SummaryHome.vue'
 import IframeResizer from '@/utils/iframe-resizer'
+import DestacadoHome from '@/components/DestacadoHome.vue'
 import DestacadoParrafo from '@/components/DestacadoParrafo.vue'
 import PrincipalHome from '@/components/PrincipalHome.vue'
 
 export default {
   name: 'Home',
   components: {
-    SummaryHome,
+    DestacadoHome,
     DestacadoParrafo,
     PrincipalHome
 },

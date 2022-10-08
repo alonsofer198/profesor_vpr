@@ -1,15 +1,12 @@
 <template>
-  <div class="barras-item">
+  <div class="barras-general">
     <b-tabs class="bar-home-summary">
       <b-tab :title="t.tipo_profesor" class="tipo-profesor-container" v-for="(t, ix) in data" :key="`tipo_${ix}`">
         <div class="row justify-content-center">
-          <div class=" col-md-4 col-8" v-for="(m, sede) in t.sedes" :key="`sede_${sede}`">
-            <div class="sede">
-              {{ sede }}
-            </div>
+          <div class=" col-md-12">
             <div class="bar-col-container">
-              <div class="col-bar" v-for="(i, x) in m" :key="`sede_${sede}_${i.anio_fiscal}`">
-                <div :style="`height: ${cantidadScale(i.cantidad, m)}`" :class="`col-auto bar-container col-${x}`">
+              <div class="col-bar" v-for="(i, x) in t.sedes" :key="`sede_${x}_${i.anio_fiscal}`">
+                <div :style="`height: ${cantidadScale(i.cantidad, t.sedes)}`" :class="`col-auto bar-container col-${x}`">
                   <div :class="`tick t-${x}`">{{ i.cantidad }}</div>
                 </div>
                 <div :class="`label l-${x}`">{{ i.anio_fiscal }}</div>
@@ -23,11 +20,15 @@
 </template>
 
 <style lang="scss">
-  .barras-item {
+  .barras-general {
     .sede {
       padding: 15px 15px 0 15px;
       font-weight: 600;
       font-size: 13px;
+    }
+
+    .bar-home-summary .col-bar {
+      height: 150px;
     }
 
     .bar-col-container {
@@ -42,25 +43,22 @@
       font-size: 10px;
       background-color: #028a46;
       transition: opacity .15s ease-in-out;
+      min-width: 25px;
+      max-width: 25px;
     }
 
     .bar-col-container .label {
       bottom: -15px;
-      left: -15px;
+      left: 10px;
       font-size: 10px;
       display: block;
       position: absolute;
-      opacity: 0;
       width: 300%;
       color: #7e7e7e;
     }
 
     .bar-col-container:hover .bar-container {
       opacity: 0.5 !important;
-    }
-
-    .bar-col-container:hover .tick {
-      opacity: 0 !important;
     }
 
     .col-bar:hover .bar-container {
@@ -72,9 +70,7 @@
       font-size: 16px;
       top: -20px;
     }
-    .bar-col-container:hover .label {
-      opacity: 0 !important;
-    }
+
 
     .col-bar:hover .label {
       opacity: 1 !important;
@@ -99,7 +95,6 @@
       font-size: 12px;
       display: block;
       position: absolute;
-      opacity: 0;
       color: #028a46;
       transition: opacity .15s ease-in-out;
     }
@@ -115,7 +110,7 @@
     .bar-col-container .tick.t-12 {
       opacity: 1;
     }
-  }
+  }  
 </style>
 
 <script>
@@ -149,7 +144,7 @@
         let maxCandidad = maxBy(sede, 'cantidad')
 				incidentesScale
 					.domain([0, maxCandidad['cantidad']])
-					.range([1, 55])
+					.range([1, 100])
 				return `${incidentesScale(value)}px`
 			}
 		}
