@@ -2,10 +2,7 @@
   <div class="container">
     <div class="row justify-content-center">
       <div class="col-12">
-        <PrincipalHome />
-      </div>
-      <div class="col-12">
-        <DestacadoHome />
+        <DestacadoParrafo />
       </div>
     </div>
   </div>
@@ -14,14 +11,12 @@
 <script>
 
 import IframeResizer from '@/utils/iframe-resizer'
-import DestacadoHome from '@/components/DestacadoHome.vue'
-import PrincipalHome from '@/components/PrincipalHome.vue'
+import DestacadoParrafo from '@/components/DestacadoParrafo.vue'
 
 export default {
-  name: 'Home',
+  name: 'Sedes',
   components: {
-    DestacadoHome,
-    PrincipalHome
+    DestacadoParrafo
 },
   mounted () {
     IframeResizer.create()
