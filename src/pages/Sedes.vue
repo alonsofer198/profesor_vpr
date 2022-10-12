@@ -20,11 +20,6 @@ export default {
 },
   mounted () {
     IframeResizer.create()
-    
-    this.widthContainer = this.$refs['widthContainer'].offsetWidth
-    window.addEventListener('resize', () => {
-      this.widthContainer = this.$refs['widthContainer'].offsetWidth
-		})
   },
   data() {
     return {
